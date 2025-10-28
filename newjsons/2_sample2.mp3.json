@@ -1,0 +1,1342 @@
+{
+    "chunks": [
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 0.0,
+            "end": 10.8,
+            "text": " In the last video, you guys gave me a lot of love.  It's my pleasure to keep this course free.  A like is a must for this free course.  You know, when I started web development,  this quality was not comprehensive course."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 10.8,
+            "end": 21.7,
+            "text": " Leave free or paid, it was not such course.  So I can understand that being free of this course  is so important for some people.  And trust me, I live up to the expectations.  With that said, like this video"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 21.7,
+            "end": 36.620000000000005,
+            "text": " because we are going to make our first website in this video.  In this video, I am going to order iPhone 15 Pro Max.  You will see how it is in the next video.  For many of you, this will be your first website in your life.  So it's going to be very fun."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 36.620000000000005,
+            "end": 45.42,
+            "text": " You guys are excited, right?  Write in the comments. I am excited.  And I will hurt all the comments that I am excited about.  I will give my heart.  In this video, we will learn to link an HTML website"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 45.42,
+            "end": 56.82,
+            "text": " with CSS and JavaScript.  Along with that, in this video, I am going to give you guys  notes, cheat sheet and many other resources.  I will tell you guys some of the such techniques  that I have learned in years."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 56.88,
+            "end": 71.88,
+            "text": " And we will literally speed up your web development.  In this video, we will also see how to make our VS Code awesome.  That your VS Code screen will look like a killer.  In this video, I will also tell you how to earn money  from web development."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 71.88,
+            "end": 84.94,
+            "text": " So let's start with full energy.  Let's roll the intro.  Alright guys, we have come to our computer screen.  Before we move on to the video, I would like to tell you  that you should access this playlist."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 84.94,
+            "end": 99.94,
+            "text": " Secondly, we are very close to 5 million subscribers.  So if you haven't subscribed yet, do subscribe.  In today's video, we will make our first website  as I have already told you.  So the first thing we will do is to customize our VS Code."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 99.94,
+            "end": 116.0,
+            "text": " So we will make our first website.  So the first thing we will do is to customize our VS Code.  So this is the folder in which we started our web development series.  Now I want to give you guys the source code of this web development series.  So I will configure the Git."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 116.0,
+            "end": 134.06,
+            "text": " Now it is not necessary to know about the Git.  But I will fire the GitHub desktop here.  And here I will add a new repository.  I will click on add, create new repository.  I will name it Sigma Web Dev Course."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 134.06,
+            "end": 145.06,
+            "text": " And this is our folder.  So I will select this folder.  Initialize this repository with Readme.  And here I will write source code for Sigma Web Development Course.  I will click on create repository."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 145.06,
+            "end": 158.06,
+            "text": " This will make a repository called Sigma Web Dev Course.  The first relevant things from the first video, I will add them here.  These were the files.  The first relevant video.  I will name it Video1."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 158.06,
+            "end": 168.12,
+            "text": " Right click New Folder.  And I will name these files Video1.  And I will move these files in Video1 folder.  I am not pushing this video on the Git.  You can use your sample videos."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 168.12,
+            "end": 178.12,
+            "text": " So now I will update the source code here.  And I will push it on the Git.  How to push it on the Git.  You guys don't need to learn this.  But this procedure is very simple."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 178.12,
+            "end": 189.18,
+            "text": " Why do we use Git?  I would like to tell you that the Git is used by web developers.  We use general coders.  When they have to collaborate with their code.  Then they have to collaborate with other people."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 189.18,
+            "end": 199.18,
+            "text": " So what will happen is that you guys will work with many programmers.  And those programmers will collaborate with your source code.  And to do this kind of collaboration.  They will also push some code.  You will also push some code."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 199.18,
+            "end": 209.18,
+            "text": " Maybe a person is editing a file.  A person is editing a second file.  So here the GitHub is used.  And what is GitHub Desktop?  GitHub Desktop is a utility to use Git."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 209.18,
+            "end": 219.24,
+            "text": " Git and GitHub have this difference.  Git is an open source.  But GitHub is a Microsoft open source.  But GitHub is a Microsoft open company.  Which is used by using Git."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 219.24,
+            "end": 229.24,
+            "text": " And helps you to host repositories on your web interface.  And helps you to host repositories on your web interface.  In the upcoming videos about Git.  I will tell you more.  But I am pushing this repository on my code with her."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 229.24,
+            "end": 239.24,
+            "text": " So you will get the link in the description.  The repository.  So as soon as I give you the links.  You will get the code if you follow it.  And I will talk about it later."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 239.24,
+            "end": 249.3,
+            "text": " I am making this video course impact.  Like this.  So I will click on the Publisher repository.  This code.  This folder will sync with my GitHub account."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 249.3,
+            "end": 259.3,
+            "text": " So the whole code that I am going to upload.  Will go to my GitHub account.  And it will sync.  The changes here will be there.  If someone has changed there."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 259.3,
+            "end": 269.3,
+            "text": " I can pull it here.  I can pull it here.  I will teach you all this.  I will dedicate a video.  Don't worry."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 269.3,
+            "end": 279.36,
+            "text": " I will make a video 2 folder.  I will go to the inside.  I will click on Shift and open with VS Code.  So here is open with code.  You will get this option."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 279.36,
+            "end": 289.36,
+            "text": " As I said.  If you have changed something.  And you have not checked.  You can have a problem.  We will dismiss this."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 289.36,
+            "end": 299.36,
+            "text": " I will make the file here.  I will make the index.  And that file will be made here.  So you all know about it.  I know a lot of intermediate people here."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 299.42,
+            "end": 309.42,
+            "text": " We already know everything.  But I am making this course.  So that all the beginners can follow along.  So I will make 3 files here.  One I made here."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 309.42,
+            "end": 319.42,
+            "text": " The second file I am going to make.  Style.CSS  And the third file I am going to make.  Script.js  And the name of these files can be anything."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 319.42,
+            "end": 329.48,
+            "text": " But I just want to keep these files self-explanatory.  So that they can see the name and know what they are doing.  Index.HTML file.  Script.js.  And this is the style sheet."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 329.48,
+            "end": 339.48,
+            "text": " So I made these 3 files here.  I will go to index.html and apply the exclamation mark.  And as soon as I apply the exclamation mark.  You see here this code is here.  I will click on view word wrap."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 339.48,
+            "end": 349.48,
+            "text": " So that you can see the code.  Horizontal scroll bar is gone.  I checked the word wrap.  So here you all see.  We will understand this code."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 349.48,
+            "end": 360.02000000000004,
+            "text": " But for now you can understand that this code.  The code of HTML.  We use it to make a website.  Now let's go to the extension tab of VS Code.  For extensions."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 360.02000000000004,
+            "end": 370.02000000000004,
+            "text": " To enhance the functionality of VS Code.  We use extension code  to make VS code better.  For VS Code, we use code to write.  To make it more helpful."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 370.02000000000004,
+            "end": 380.52000000000004,
+            "text": " So which extension will we use?  I will put you in the first one.  Some extensions which will make our VS code clearer.  If your friend has seen it.  He will say yeah."
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 380.52000000000004,
+            "end": 396.88,
+            "text": " Okay.  I will go to the second one.  I will do it quickly, VS Code Icons  VS Code Icons is an extension called KEEK, which I will install  As you know, whatever files you are looking at, it has an icon"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 396.88,
+            "end": 410.28,
+            "text": " Earlier, this icon was not available, you can see it in the video  Here, you are getting to see all these icons  Thanks for installing VS Code Icons  I will activate it here  And you can see here that these are our icons"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 410.28,
+            "end": 423.0,
+            "text": " If you consider that I have made a folder at the time of coming, then this icon will come  So, these icons look so good  We will come to the extension tab again  And here, there are many good themes that you can use  Some themes are Jellyfish themes"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 423.0,
+            "end": 443.12,
+            "text": " One is GitHub themes, there are many themes  You can use these themes, but I can only apply one theme at a time  This is the theme of default VS Code, which shows you VS Code in this way  Now, if I change my theme, then my VS Code will look in a different way  I will show you which one I will prefer when it comes to themes"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 443.2,
+            "end": 455.8,
+            "text": " First, I will show you the GitHub theme here  This is an official GitHub theme  Here, you can see GitHub Dark  Here, you can see GitHub Light  Here, you can see GitHub DIMMED"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 455.8,
+            "end": 473.52000000000004,
+            "text": " Here, you can see GitHub Colour Blind  I think this one looks better because the colors in this one  Sorry, I will choose GitHub Dark because the colors in this one are different  Another theme that I will prefer is Jellyfish  And here, Jellyfish theme looks good"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 473.52000000000004,
+            "end": 488.32000000000005,
+            "text": " If I install this, then you can see something like this  Jellyfish, this is how you see  After this, a material theme is also very popular  And if I use the material theme here  And the material theme icon is the material theme that we have to install"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 488.32000000000005,
+            "end": 501.84000000000003,
+            "text": " If you have installed the material theme icon, then you can change your icons  To control which extension  And here, we have installed many extensions  You can also tell how to delete extensions  Here, I am showing the material theme icons"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 501.84000000000003,
+            "end": 515.96,
+            "text": " And if you want, you can use the VSCode icons  If I want, the material themes icon to be removed  Then I will simply remove this  And here, you can see all my extensions  This is the material theme icon"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 515.96,
+            "end": 529.9599999999999,
+            "text": " And I want to use this one  And if I want, I can also uninstall it  And sometimes, if we uninstall anything, then reload is required  So, I will have to click on reload required  And when I click on reload required, then my VSCode will be reloaded"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 529.9599999999999,
+            "end": 540.8,
+            "text": " So, you can customize your VSCode  I will select my VSCode icons here  So that I can see my icons like this  I like this a little  I like Jellyfish theme a lot"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 540.8,
+            "end": 550.88,
+            "text": " After this, there is another extension called Prettier  I will not install it too  But I just want to tell you  Another extension is ES7  When we react, you will know"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 550.88,
+            "end": 560.04,
+            "text": " And yes, we will react in this course  For all those asking  Sorry for the spoilers, but we are going to react in this course  So, this is ES7 plus ReactRedux  React Native Snippets"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 560.04,
+            "end": 573.92,
+            "text": " This extension gives you a React Snippets  We will use it only when we react  We will not install it for now  But now, the most important extension is called Live Preview  We will install this extension called Live Preview"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 573.92,
+            "end": 583.9200000000001,
+            "text": " Because it is a very useful extension  I have told you all the extensions  Mostly, they help you  To change the look and feel of the VSCode  But today, I am telling you the extension"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 583.9200000000001,
+            "end": 594.2,
+            "text": " Live Preview, you will actually use it  Let's come to our HTML CSS JavaScript files  So, these are our HTML CSS and JavaScript files  This is HTML file  This is some code"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 594.2,
+            "end": 601.36,
+            "text": " Which tells you  How to see the website  Okay  So, here I am saying that  Document should be in the title"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 601.36,
+            "end": 611.4000000000001,
+            "text": " I will write here  Harry's first website  Harry's first website  K-Course's first website  Harry's first website will be a lie"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 611.4000000000001,
+            "end": 617.44,
+            "text": " It is your first website  You people are writing your name in it  Okay, whatever your name is  Kee first website  And if I write here in the body"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 617.44,
+            "end": 624.9200000000001,
+            "text": " Hey, this is my first website  And everyone write in the comment  Congratulations  The first website of Jinn Jinn  Everyone write congratulations"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 624.9200000000001,
+            "end": 632.36,
+            "text": " Congratulations for my first website  Okay  And congratulate each other  Make them a atmosphere in the comment section  I also come in the comment section"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 632.36,
+            "end": 638.1600000000001,
+            "text": " Okay  And I give you all my heart  Hey, this is my first website  Now  Let me see how it is"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 638.1600000000001,
+            "end": 646.36,
+            "text": " The biggest question for people  So, there are two ways to see it  The one which we have installed live server  Live Preview, sorry  Live server used to work a lot"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 646.36,
+            "end": 655.4,
+            "text": " But Microsoft released Live Preview  So, I will recommend the latest extension  Live server works too  But I am not going to run Live Server  I am going to use Live Preview"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 655.4,
+            "end": 664.52,
+            "text": " After installing Live Preview  You can see this icon here  But if you click on it  Your website will look something like this  Now you say, I want to see this website"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 664.52,
+            "end": 671.92,
+            "text": " In the browser  Because my website will be in the browser  So, if you want to see it in the browser  Click here  Open in the browser"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 671.92,
+            "end": 678.04,
+            "text": " This will open in the browser  And I will tell you a fun thing  Listen to the fun  You can close it from here  And you can write here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 678.04,
+            "end": 688.36,
+            "text": " Harry's course is good  You can write it  I am praising my course  But yes, that is Harry's course is good  Okay, I wrote it here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 688.36,
+            "end": 701.64,
+            "text": " And you noticed one thing  I didn't reload this website  But after that, it updated this content  Which I wrote in this VS Code  That is, I will write whatever here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 701.64,
+            "end": 709.0400000000001,
+            "text": " Without reloading  It will be updated here  Will it happen or not?  Play the music  What should happen for us?"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 709.0400000000001,
+            "end": 717.64,
+            "text": " Okay, it will happen  And here  Hey, this is my first website  Harry's course is good  Now I will write here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 717.64,
+            "end": 726.16,
+            "text": " Sigma Harry's course is good  Sigma Harry's course is good  Sigma Harry's course is good  Okay  So, here you saw"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 726.16,
+            "end": 733.72,
+            "text": " How this extension helped us  If you reload it too  It will not make any difference  Because it is reloading live  There are two things"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 733.72,
+            "end": 742.72,
+            "text": " Sometimes we want our page  To be here or here  I will close it  So that you can see the wide code  Sometimes we want our code"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 742.72,
+            "end": 749.44,
+            "text": " To be here or here  Because we want to see  Its live preview  So, I am writing anything  Harry's course is good"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 749.44,
+            "end": 756.76,
+            "text": " And this is Sigma course  I will write something else  I can write many things  So, I will write here  And I will keep watching"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 756.76,
+            "end": 765.24,
+            "text": " And I can also make it small  Like this  So, I will see the live update here  If you have seen my old videos  Then I have used this extension"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 765.24,
+            "end": 771.28,
+            "text": " Of the live server  Or this extension was not there  I did not know  Whatever it is  If something new comes"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 771.28,
+            "end": 780.32,
+            "text": " Then it takes time to find out  But this is something that you should use  Because I use AC in my daily life  I do web development  Many people ask me"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 780.32,
+            "end": 786.08,
+            "text": " Do you also do web development  Or do you just teach?  I do it  I make websites  I don't make videos"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 786.08,
+            "end": 793.72,
+            "text": " I also do work  By making websites  And I make money by making websites  Now, all the codes I am writing  You will get all these on the GitHub"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 793.72,
+            "end": 803.08,
+            "text": " So, you will go to any video description  Of any video course  In any video description  You will get the corresponding video code  You don't have to worry"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 803.08,
+            "end": 812.12,
+            "text": " Now, I will close this  Because my preview is visible here  Now, understand the HTML, CSS, JavaScript  Which we talked about  We talked so much about it in the previous video"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 812.12,
+            "end": 818.72,
+            "text": " Now, I will tell you how to link these three  Now, you will say  Okay, you made index.html  It is very good  You can see the title here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 818.72,
+            "end": 826.8,
+            "text": " Look here, the course of Harry by K  First website  I know that I will do the course of Sigma Web Development  So, this will be changed  Sigma"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 826.8,
+            "end": 835.56,
+            "text": " Sigma  Web Development  Course  Here, I have written Sigma Web Development Course  And you can see here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 835.56,
+            "end": 841.84,
+            "text": " That this has been updated  So, this will keep on updating  It will be a live update  Now, I want my background to be red  Okay"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 841.84,
+            "end": 848.4000000000001,
+            "text": " This kind of work is done by CSS  So, I can write here  Body  And background color  Red"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 848.4000000000001,
+            "end": 855.6,
+            "text": " Okay, this is the syntax of CSS  I will read CSS  And I will read it so that you won't be able to forget it  Don't worry  This is written here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 855.6,
+            "end": 862.6800000000001,
+            "text": " Understand, this is CSS  Which reds the color of the body  Okay  And here, you see  Will the color of the body be red or not?"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 862.6800000000001,
+            "end": 867.96,
+            "text": " Tell me in the comment section  Now, I will tell the beginners that it won't be red  Okay, why not?  The beginners will feel that it will be red  But it won't be"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 867.96,
+            "end": 876.0,
+            "text": " There is not a good world  This HTML file is also running  It doesn't know about this CSS file  Now, what is going on in my house?  What does my neighbor know?"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 876.0,
+            "end": 883.6,
+            "text": " Now, I have made lentils here  And I expect  My neighbor has made rice  And I expect  I can eat it with it"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 883.6,
+            "end": 888.28,
+            "text": " It doesn't happen  You can eat it sometimes  But, I understand  What am I saying?  So, I will have to link you"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 888.28,
+            "end": 895.84,
+            "text": " I will have to link you  You have to go and tell your neighbor  That I will eat it with you  I am making lentils  You will have a hand shake"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 895.84,
+            "end": 904.92,
+            "text": " So, how will that hand shake be?  In HTML, you will tell where is your CSS file?  So, there is a link tag  And the reason for not using notepad  You will know here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 904.9599999999999,
+            "end": 911.4799999999999,
+            "text": " As soon as I write the link  Here is the link colon CSS  As soon as I select it  Look here  It has done half of my work"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 911.4799999999999,
+            "end": 918.9599999999999,
+            "text": " It has also written RL is equal to the style sheet  I have to type this manually in notepad  This is the syntax of HTML  I have to write it  But automatically"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 918.9599999999999,
+            "end": 926.76,
+            "text": " It has come  Now, style.css is my destiny  It is also called style.css  It is the file and it is also called style.css  If it is called Harry.css"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 926.76,
+            "end": 935.4,
+            "text": " Then I would have written Harry.css here  And guess what?  Now, my background is red  Now, if I want the color of my text to be white  So, I can write the color text here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 935.4,
+            "end": 941.52,
+            "text": " I can write here  Color white  Now, nothing will work here  I have written color white  Look here, this is white"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 941.52,
+            "end": 950.0799999999999,
+            "text": " The valid CSS syntax will work there  And we will talk about it later in this course  So, this is our work  Which was our CSS  Now, how will this JavaScript work?"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 950.0799999999999,
+            "end": 959.1999999999999,
+            "text": " If I write here alert  And I write here  Welcome to Sigma  Web Development Course  Suppose I write here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 959.1999999999999,
+            "end": 968.48,
+            "text": " Welcome to Sigma Web Development Course  So, what will be the alert here?  Why did not the alert come?  I will tell you that this syntax is absolutely correct  There is no problem in the syntax"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 968.48,
+            "end": 974.3199999999999,
+            "text": " And I will read the JavaScript very well  So, don't worry  What did I write?  This is the code of JavaScript  Which is"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 974.3199999999999,
+            "end": 982.12,
+            "text": " Welcome to Sigma Web Development Course  It will do a very simple flash  Why didn't you do it?  Flash is here  Did my computer get spoiled?"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 982.12,
+            "end": 992.24,
+            "text": " No, my computer is absolutely right  I want to tell you that I will have to include the script  And let's include the script from the body  Okay  Now, here as soon as I will include the script"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 992.32,
+            "end": 998.28,
+            "text": " I will write it in SRC  Script.js  How did I write this?  First, I wrote script here  Okay"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 998.28,
+            "end": 1006.08,
+            "text": " First, I wrote script here  Amit abbreviation  What is amit?  Amit is a plugin  Which is built-in in VS Code"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1006.08,
+            "end": 1017.0,
+            "text": " You will automatically complete the selection  Now, I am writing script here  And I am selecting the column SRC  This means that I want to give a source file  You can type it manually"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1017.0,
+            "end": 1029.36,
+            "text": " But the suggestions you are getting here  Are the powers to write your code  They make you a wonderful developer  And they increase your powers  So that you can't get into trouble"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1029.36,
+            "end": 1037.84,
+            "text": " And as soon as possible, your Azure developer can be automatically  SRC is equal to  Script.js  You can see here  I have included it"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1037.84,
+            "end": 1044.08,
+            "text": " Now, I will come here  So, you see here  Welcome to Sigma Web Development Course  Everyone write in the comment  I have been automatically"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1044.08,
+            "end": 1049.96,
+            "text": " Write  Because I know that you have been automatically  By looking at this box  Javascript also went away  CSS also went away"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1049.96,
+            "end": 1054.28,
+            "text": " Javascript also went away  Now, you will be automatically  I will reload it  It will come again  Okay, it will be closed"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1054.28,
+            "end": 1061.72,
+            "text": " So, as soon as I visit this website  I will get to see an alert here  It is called alert  Javascript  I will tell you what Javascript is"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1061.72,
+            "end": 1068.84,
+            "text": " Don't say that you didn't tell me  I don't want to start weirdly  I will finish the HTML  Then, Javascript in CSS  So, don't take any tension"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1068.84,
+            "end": 1075.72,
+            "text": " And along with this  The best practices  I am telling you as soon as possible  You have to keep in mind that  What I am telling you"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1075.76,
+            "end": 1082.64,
+            "text": " It is coming from my experience  It is coming from my time experience  And definitely will help you  Like I said, live server  You can use it if you want"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1082.64,
+            "end": 1088.16,
+            "text": " Nothing wrong in that  Use it live preview  From Microsoft  Okay, awesome  Now, I want you all to write"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1088.16,
+            "end": 1095.56,
+            "text": " Sigma batch OP in the comment  Everyone is enjoying the course  So, put Sigma batch OP in the comment  It will be fun to see  Yes, this is a batch"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1095.56,
+            "end": 1100.16,
+            "text": " It is free course  It is a batch  So, Sigma course OP  Write the hashtag  It will be fun"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1100.16,
+            "end": 1109.3200000000002,
+            "text": " Now, there were many people's comments in the last video  How to do this mouse wheel  So, you have to go to the settings  You have to write mouse wheel  And here you have to check the editor"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1109.3200000000002,
+            "end": 1116.2,
+            "text": " The mouse wheel zoom  Then, you have to press control  From the mouse wheel  I have pressed control  As I will do it"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1116.2,
+            "end": 1124.4,
+            "text": " I will be able to zoom in  And if I right click here  To do command palette  Then I can toggle the screencast mode  Then whatever I write here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1124.4,
+            "end": 1130.3600000000001,
+            "text": " You will get to see that  I did not toggle the screencast mode in this video  Because you already know  What I am typing  Okay"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1130.3600000000001,
+            "end": 1136.6,
+            "text": " So, I can toggle the screencast mode  Or not, I can turn on  The bottom of the screen  I am doing all the things that I am doing  In the last video"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1136.6,
+            "end": 1148.32,
+            "text": " We talked about how websites work  And what we did  You understood very well  Now, I will take the example of iPhone 15 Pro Max  And I will show you by ordering"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1148.32,
+            "end": 1160.08,
+            "text": " How the client-server interaction will be  Whenever a user orders an iPhone  Okay, so you will find it interesting  I will show you here  So, guys, how the website works here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1160.08,
+            "end": 1169.1200000000001,
+            "text": " I have come to explain it on Apple.com  Now, Apple.com is a website  Okay, from their servers  Data will be here  Okay, whatever the HTML files are"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1169.1200000000001,
+            "end": 1178.24,
+            "text": " I will click here on pre-order  And after that, I will simply  When I am recording  It is not even here, by the way  They are saying that it will be here by September"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1178.24,
+            "end": 1184.88,
+            "text": " I will select 15 Pro Max  Let's take any color  Let's take Black Titanium  What is going on  Let's take 250GB"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1184.88,
+            "end": 1190.96,
+            "text": " Let's take No Trading  No Apple coverage  After this, you see here  What did they do?  Their communication with servers"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1190.96,
+            "end": 1198.48,
+            "text": " It is going on and on  So, after all this  The HTML CSS JavaScript  You can see here  I have sourced the view page"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1198.48,
+            "end": 1206.96,
+            "text": " So, it is showing me here  And this is our original website  That is, what we were working on  Now, I will quickly check out here  I will continue as a guest"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1206.96,
+            "end": 1214.28,
+            "text": " I will show you something interesting  Like I will click on Inspect  And I will click on Network  Look, 2 and 4 communication is going on  With Apple's servers"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1214.28,
+            "end": 1223.84,
+            "text": " Which means that here  As I am doing the action here  The JavaScript is communicating the server  And there  Appropriate Action Server is taking it"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1223.84,
+            "end": 1229.76,
+            "text": " And sending me data  I will come here  I would like to be delivered  Continue the shipping address  I will put the name"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1229.76,
+            "end": 1236.04,
+            "text": " Will deliver on 19th October  Shipping  I will tell you the update  I will keep you, okay?  Yes, everything is fine"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1236.04,
+            "end": 1240.6399999999999,
+            "text": " Terms and conditions  I have read it  I will agree  Place your order  I have agreed"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1240.6399999999999,
+            "end": 1246.1999999999998,
+            "text": " Place your order  Like the video  Because I will also order iPhones  To explain the web development  This is here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1246.1999999999998,
+            "end": 1257.64,
+            "text": " We have OTP  I will confirm OTP  And my purchase is done here  The goal was to  I requested something from Apple.com server"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1257.64,
+            "end": 1264.24,
+            "text": " I said  Give me an iPhone 15 Pro Max  Apple.com said  Take it  So the communication like this"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1264.24,
+            "end": 1270.96,
+            "text": " Between server and client  This is through JavaScript  Load the page without  Like you saw  I selected iPhone here"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1270.96,
+            "end": 1279.2,
+            "text": " After that I clicked on different things  So all those things  How do they happen?  They are on the side of JavaScript  How is the styling?"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1279.2,
+            "end": 1286.68,
+            "text": " With CSS  And what is written is HTML  I hope you remember this example  And if you get a call  I will definitely show you"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1286.68,
+            "end": 1292.3600000000001,
+            "text": " Many people have said  This is a debt  I will show you this phone  When it comes  I will do it in front of you"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1292.3600000000001,
+            "end": 1301.8000000000002,
+            "text": " So this is how your websites work  How to communicate with a client server  I hope you understood from this example  You can tell me in the comment section  If I want to give this iPhone"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1301.8000000000002,
+            "end": 1309.04,
+            "text": " So what will be the best thing  That you will also know  That I have given a genuine  And I will also give  You tell me in the comment section"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1309.04,
+            "end": 1316.1200000000001,
+            "text": " I don't know a little about all this  So you know about this  So tell me  Now I want to tell you  Where you will get notes and cheatsheets"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1316.1200000000001,
+            "end": 1324.16,
+            "text": " If you go to codevdary.com  Slash notes  You will get notes to see  And you can download notes here  With that"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1324.16,
+            "end": 1333.96,
+            "text": " You will get to see cheatsheets below  For example, if I want to access HTML cheatsheets  So I can access cheatsheets here  Here all the elements  But in this course"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1333.96,
+            "end": 1346.2,
+            "text": " I will tell you about all the elements  With that if you want to download my handwritten notes  So from here you can download PDF notes  I have written handwritten notes  You will enjoy reading"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1346.2,
+            "end": 1353.4,
+            "text": " In this course  I will tell you everything  But you will enjoy downloading notes  Your learning experience  I will make you laugh"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1353.4,
+            "end": 1361.16,
+            "text": " That you will also say  It was fun, boss  Now I want you all to do one thing  Put initial review of this course  In this first video"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1361.16,
+            "end": 1369.84,
+            "text": " I want you all to go to this video  And go to this video  In the comment section  Post the initial review  I want you all to write in the comment section"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1369.84,
+            "end": 1378.3999999999999,
+            "text": " Of this first video  How did you like the course  And give me 5 stars  Do star rating this course  And tell me about the initial review"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1378.3999999999999,
+            "end": 1384.28,
+            "text": " I know that the course is not that good  But what quality  And all these things  I am commenting on you all  In the first video"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1384.28,
+            "end": 1389.9199999999998,
+            "text": " So if you will do this  I will feel good from the heart  Go to the first video  Read this course  Now we will talk"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1389.9199999999998,
+            "end": 1397.6000000000001,
+            "text": " After doing this course  How you can earn money  The first way to earn money from web development  It is very simple  You do freelance"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1397.6000000000001,
+            "end": 1404.0,
+            "text": " Freelance as a web developer  You make websites  There are many websites  Which you can make  And after making them"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1404.0,
+            "end": 1412.0,
+            "text": " You will get a lot of good money  Many people integrate APIs  And by integrating APIs  Many people earn a lot of money  Many people say"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1412.0,
+            "end": 1416.96,
+            "text": " 4GBT has come  So 4GBT has come  Then nothing will happen  Everything is 4GBT  But this is not true"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1416.96,
+            "end": 1431.28,
+            "text": " 4GBT is an easy way for you to make websites  According to me  And when you use 4GBT  You become a giga chat developer  So use more than 4GBT"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1431.28,
+            "end": 1438.56,
+            "text": " And you can save your time  In fact, I tell the truth  Since 4GBT has come  I am able to deliver more  To my freelancing clients"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1438.56,
+            "end": 1445.04,
+            "text": " As many websites  I had to make from the beginning  I do more than half of the work  I do with 4GBT  And the work which 4GBT is not able to do"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1445.04,
+            "end": 1452.2,
+            "text": " I do that  Finally I package it  And I don't have to answer anyone  What I used 4GBT  What I did without 4GBT"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1452.2,
+            "end": 1461.6000000000001,
+            "text": " You can deliver everything very easily  Use 4GBT  You can't do everything with 4GBT  You have to use 4GBT  And after that"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1461.6000000000001,
+            "end": 1472.28,
+            "text": " You have to deliver the freelance clients  From where you will meet freelancing clients  You can go to a website like Fiverr  Yes, I know that it is difficult to get work on Fiverr  But you can go to the buyer request"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1472.28,
+            "end": 1478.8400000000001,
+            "text": " There is a buyer request option in Fiverr  Search it  Now if you go here  You can match it with buyer  If I show you images"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1478.8400000000001,
+            "end": 1485.4,
+            "text": " Then here  You can get some buyer requests  You can give your pitch to them  That I have done this  And to do this"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1485.4,
+            "end": 1492.3600000000001,
+            "text": " You will get work  It will start  Like on your gig  You will get good reviews  You will earn more money"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1492.3600000000001,
+            "end": 1501.96,
+            "text": " Suppose there is a gig of Fiverr  No one has ordered it  Then you will never get easy work  But if you agree on one gig  5-6 people have ordered"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1501.96,
+            "end": 1510.24,
+            "text": " And everyone gave you 5 stars  Then things will be easier for you  Because the buyers  They want the ones who are working  Their credibility should be good"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1510.24,
+            "end": 1516.1200000000001,
+            "text": " So that they also need work  And they are also giving money  So they also want  If they are giving money  Then their money is not wasted"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1516.1200000000001,
+            "end": 1523.52,
+            "text": " So here Fiverr Upwork  And also a lot of freelancing websites  You can try on them  But before trying  You should make good websites"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1523.52,
+            "end": 1531.16,
+            "text": " And today in the day  Responsive  Use cutting edge technologies  Suppose you want to integrate 4GPTI  You will get this kind of work"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1531.16,
+            "end": 1537.1200000000001,
+            "text": " No one will tell you  Make me a design  Make it simple  Make it new  I am saying most of the clients"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1537.1200000000001,
+            "end": 1544.6799999999998,
+            "text": " Do not do all this work  For today, everyone does 4GPTI  You can make complex websites  And earn more money  Then another thing"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1544.6799999999998,
+            "end": 1551.6399999999999,
+            "text": " Get a job as a web developer  If you get a job as a web developer  Which if you become a good web developer  Then you will get a job  And this is not the case"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1551.6399999999999,
+            "end": 1559.24,
+            "text": " Jobs will decrease  In fact  Senior developers' demand is increasing  And their back edge is also increasing  People are earning more in coding"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1559.24,
+            "end": 1566.56,
+            "text": " Than they used to earn  If you are a very basic developer  Then you will get 4GPTI replaced  After this  You can sell your services"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1566.56,
+            "end": 1576.32,
+            "text": " By making an Instagram account  In an Instagram account  If you upload any kind of images  And if you take a little traction  Where you talk about websites"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1576.32,
+            "end": 1581.92,
+            "text": " About all these things  Then you start approaching clients  I approach many clients  Because they say  I want to make a website"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1581.92,
+            "end": 1589.72,
+            "text": " I am not saying that you should have a lot of followers  You can start with very little following  After this  You can give people 1 to 1 help  You will get this too"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1589.72,
+            "end": 1596.56,
+            "text": " You will get this from clients' Instagram  Or from social media  You can say in your real life  If you want to learn anything  Then you come to my DM"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1596.56,
+            "end": 1604.56,
+            "text": " I will tell you or I will tell you  And you get clients very easily  Trust me if you have any help  After this  You can sell your course"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1604.56,
+            "end": 1612.3600000000001,
+            "text": " Which I think  This course was going to sell  I have uploaded it in free  But this course was going to get paid  The truth is this"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1612.3600000000001,
+            "end": 1621.68,
+            "text": " And when you get this course paid  Definitely  Everyone gave money for this course  It is not necessary that you have to make a web development course  There are many things inside web development"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1621.68,
+            "end": 1630.0,
+            "text": " Like how to use 4GPTI  Make a course of it  Make a course of 4GPTI  If you want to make a website  It will be easy to sell your course"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1630.0,
+            "end": 1638.1999999999998,
+            "text": " The course economy is very huge  Many people have contacted me  To buy this course  That I will launch this course as a paid course on their platform  But I didn't do it"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1638.1999999999998,
+            "end": 1646.9599999999998,
+            "text": " Because I wanted to give this course as free  I decided  I even posted it  People have contacted me till the last moment  Please don't put it in free"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1646.9599999999998,
+            "end": 1655.76,
+            "text": " But I put it  So you will have to write down the sigma batch in the comment section  And you will have to like it  Now that the course is uploaded in free  Many of the course sellers have been harmed"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1655.76,
+            "end": 1666.72,
+            "text": " Because when iPhone 15, 16, 19 is being released in free  Then who will ask Blackberry  That too the paid Blackberry  And I am saying this because I have put in so much effort  And put in so much experience"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1666.72,
+            "end": 1677.28,
+            "text": " I know that in the coming videos  You will also know  So stay tuned  You will get a lot of things in the coming videos  I am aware of the fact that we are taking a very slow start"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1677.28,
+            "end": 1683.72,
+            "text": " But remember me  We will raise the bar like anything  So access the playlist  Like the video  Do the land of your village in my name"
+        },
+        {
+            "number": "2",
+            "title": "sample2",
+            "start": 1683.72,
+            "end": 1688.3200000000002,
+            "text": " Thank you so much guys for watching this video  And I will see you next time"
+        }
+    ],
+    "text": " In the last video, you guys gave me a lot of love. It's my pleasure to keep this course free. A like is a must for this free course. You know, when I started web development, this quality was not comprehensive course. Leave free or paid, it was not such course. So I can understand that being free of this course is so important for some people. And trust me, I live up to the expectations. With that said, like this video because we are going to make our first website in this video. In this video, I am going to order iPhone 15 Pro Max. You will see how it is in the next video. For many of you, this will be your first website in your life. So it's going to be very fun. You guys are excited, right? Write in the comments. I am excited. And I will hurt all the comments that I am excited about. I will give my heart. In this video, we will learn to link an HTML website with CSS and JavaScript. Along with that, in this video, I am going to give you guys notes, cheat sheet and many other resources. I will tell you guys some of the such techniques that I have learned in years. And we will literally speed up your web development. In this video, we will also see how to make our VS Code awesome. That your VS Code screen will look like a killer. In this video, I will also tell you how to earn money from web development. So let's start with full energy. Let's roll the intro. Alright guys, we have come to our computer screen. Before we move on to the video, I would like to tell you that you should access this playlist. Secondly, we are very close to 5 million subscribers. So if you haven't subscribed yet, do subscribe. In today's video, we will make our first website as I have already told you. So the first thing we will do is to customize our VS Code. So we will make our first website. So the first thing we will do is to customize our VS Code. So this is the folder in which we started our web development series. Now I want to give you guys the source code of this web development series. So I will configure the Git. Now it is not necessary to know about the Git. But I will fire the GitHub desktop here. And here I will add a new repository. I will click on add, create new repository. I will name it Sigma Web Dev Course. And this is our folder. So I will select this folder. Initialize this repository with Readme. And here I will write source code for Sigma Web Development Course. I will click on create repository. This will make a repository called Sigma Web Dev Course. The first relevant things from the first video, I will add them here. These were the files. The first relevant video. I will name it Video1. Right click New Folder. And I will name these files Video1. And I will move these files in Video1 folder. I am not pushing this video on the Git. You can use your sample videos. So now I will update the source code here. And I will push it on the Git. How to push it on the Git. You guys don't need to learn this. But this procedure is very simple. Why do we use Git? I would like to tell you that the Git is used by web developers. We use general coders. When they have to collaborate with their code. Then they have to collaborate with other people. So what will happen is that you guys will work with many programmers. And those programmers will collaborate with your source code. And to do this kind of collaboration. They will also push some code. You will also push some code. Maybe a person is editing a file. A person is editing a second file. So here the GitHub is used. And what is GitHub Desktop? GitHub Desktop is a utility to use Git. Git and GitHub have this difference. Git is an open source. But GitHub is a Microsoft open source. But GitHub is a Microsoft open company. Which is used by using Git. And helps you to host repositories on your web interface. And helps you to host repositories on your web interface. In the upcoming videos about Git. I will tell you more. But I am pushing this repository on my code with her. So you will get the link in the description. The repository. So as soon as I give you the links. You will get the code if you follow it. And I will talk about it later. I am making this video course impact. Like this. So I will click on the Publisher repository. This code. This folder will sync with my GitHub account. So the whole code that I am going to upload. Will go to my GitHub account. And it will sync. The changes here will be there. If someone has changed there. I can pull it here. I can pull it here. I will teach you all this. I will dedicate a video. Don't worry. I will make a video 2 folder. I will go to the inside. I will click on Shift and open with VS Code. So here is open with code. You will get this option. As I said. If you have changed something. And you have not checked. You can have a problem. We will dismiss this. I will make the file here. I will make the index. And that file will be made here. So you all know about it. I know a lot of intermediate people here. We already know everything. But I am making this course. So that all the beginners can follow along. So I will make 3 files here. One I made here. The second file I am going to make. Style.CSS And the third file I am going to make. Script.js And the name of these files can be anything. But I just want to keep these files self-explanatory. So that they can see the name and know what they are doing. Index.HTML file. Script.js. And this is the style sheet. So I made these 3 files here. I will go to index.html and apply the exclamation mark. And as soon as I apply the exclamation mark. You see here this code is here. I will click on view word wrap. So that you can see the code. Horizontal scroll bar is gone. I checked the word wrap. So here you all see. We will understand this code. But for now you can understand that this code. The code of HTML. We use it to make a website. Now let's go to the extension tab of VS Code. For extensions. To enhance the functionality of VS Code. We use extension code to make VS code better. For VS Code, we use code to write. To make it more helpful. So which extension will we use? I will put you in the first one. Some extensions which will make our VS code clearer. If your friend has seen it. He will say yeah. Okay. I will go to the second one. I will do it quickly, VS Code Icons VS Code Icons is an extension called KEEK, which I will install As you know, whatever files you are looking at, it has an icon Earlier, this icon was not available, you can see it in the video Here, you are getting to see all these icons Thanks for installing VS Code Icons I will activate it here And you can see here that these are our icons If you consider that I have made a folder at the time of coming, then this icon will come So, these icons look so good We will come to the extension tab again And here, there are many good themes that you can use Some themes are Jellyfish themes One is GitHub themes, there are many themes You can use these themes, but I can only apply one theme at a time This is the theme of default VS Code, which shows you VS Code in this way Now, if I change my theme, then my VS Code will look in a different way I will show you which one I will prefer when it comes to themes First, I will show you the GitHub theme here This is an official GitHub theme Here, you can see GitHub Dark Here, you can see GitHub Light Here, you can see GitHub DIMMED Here, you can see GitHub Colour Blind I think this one looks better because the colors in this one Sorry, I will choose GitHub Dark because the colors in this one are different Another theme that I will prefer is Jellyfish And here, Jellyfish theme looks good If I install this, then you can see something like this Jellyfish, this is how you see After this, a material theme is also very popular And if I use the material theme here And the material theme icon is the material theme that we have to install If you have installed the material theme icon, then you can change your icons To control which extension And here, we have installed many extensions You can also tell how to delete extensions Here, I am showing the material theme icons And if you want, you can use the VSCode icons If I want, the material themes icon to be removed Then I will simply remove this And here, you can see all my extensions This is the material theme icon And I want to use this one And if I want, I can also uninstall it And sometimes, if we uninstall anything, then reload is required So, I will have to click on reload required And when I click on reload required, then my VSCode will be reloaded So, you can customize your VSCode I will select my VSCode icons here So that I can see my icons like this I like this a little I like Jellyfish theme a lot After this, there is another extension called Prettier I will not install it too But I just want to tell you Another extension is ES7 When we react, you will know And yes, we will react in this course For all those asking Sorry for the spoilers, but we are going to react in this course So, this is ES7 plus ReactRedux React Native Snippets This extension gives you a React Snippets We will use it only when we react We will not install it for now But now, the most important extension is called Live Preview We will install this extension called Live Preview Because it is a very useful extension I have told you all the extensions Mostly, they help you To change the look and feel of the VSCode But today, I am telling you the extension Live Preview, you will actually use it Let's come to our HTML CSS JavaScript files So, these are our HTML CSS and JavaScript files This is HTML file This is some code Which tells you How to see the website Okay So, here I am saying that Document should be in the title I will write here Harry's first website Harry's first website K-Course's first website Harry's first website will be a lie It is your first website You people are writing your name in it Okay, whatever your name is Kee first website And if I write here in the body Hey, this is my first website And everyone write in the comment Congratulations The first website of Jinn Jinn Everyone write congratulations Congratulations for my first website Okay And congratulate each other Make them a atmosphere in the comment section I also come in the comment section Okay And I give you all my heart Hey, this is my first website Now Let me see how it is The biggest question for people So, there are two ways to see it The one which we have installed live server Live Preview, sorry Live server used to work a lot But Microsoft released Live Preview So, I will recommend the latest extension Live server works too But I am not going to run Live Server I am going to use Live Preview After installing Live Preview You can see this icon here But if you click on it Your website will look something like this Now you say, I want to see this website In the browser Because my website will be in the browser So, if you want to see it in the browser Click here Open in the browser This will open in the browser And I will tell you a fun thing Listen to the fun You can close it from here And you can write here Harry's course is good You can write it I am praising my course But yes, that is Harry's course is good Okay, I wrote it here And you noticed one thing I didn't reload this website But after that, it updated this content Which I wrote in this VS Code That is, I will write whatever here Without reloading It will be updated here Will it happen or not? Play the music What should happen for us? Okay, it will happen And here Hey, this is my first website Harry's course is good Now I will write here Sigma Harry's course is good Sigma Harry's course is good Sigma Harry's course is good Okay So, here you saw How this extension helped us If you reload it too It will not make any difference Because it is reloading live There are two things Sometimes we want our page To be here or here I will close it So that you can see the wide code Sometimes we want our code To be here or here Because we want to see Its live preview So, I am writing anything Harry's course is good And this is Sigma course I will write something else I can write many things So, I will write here And I will keep watching And I can also make it small Like this So, I will see the live update here If you have seen my old videos Then I have used this extension Of the live server Or this extension was not there I did not know Whatever it is If something new comes Then it takes time to find out But this is something that you should use Because I use AC in my daily life I do web development Many people ask me Do you also do web development Or do you just teach? I do it I make websites I don't make videos I also do work By making websites And I make money by making websites Now, all the codes I am writing You will get all these on the GitHub So, you will go to any video description Of any video course In any video description You will get the corresponding video code You don't have to worry Now, I will close this Because my preview is visible here Now, understand the HTML, CSS, JavaScript Which we talked about We talked so much about it in the previous video Now, I will tell you how to link these three Now, you will say Okay, you made index.html It is very good You can see the title here Look here, the course of Harry by K First website I know that I will do the course of Sigma Web Development So, this will be changed Sigma Sigma Web Development Course Here, I have written Sigma Web Development Course And you can see here That this has been updated So, this will keep on updating It will be a live update Now, I want my background to be red Okay This kind of work is done by CSS So, I can write here Body And background color Red Okay, this is the syntax of CSS I will read CSS And I will read it so that you won't be able to forget it Don't worry This is written here Understand, this is CSS Which reds the color of the body Okay And here, you see Will the color of the body be red or not? Tell me in the comment section Now, I will tell the beginners that it won't be red Okay, why not? The beginners will feel that it will be red But it won't be There is not a good world This HTML file is also running It doesn't know about this CSS file Now, what is going on in my house? What does my neighbor know? Now, I have made lentils here And I expect My neighbor has made rice And I expect I can eat it with it It doesn't happen You can eat it sometimes But, I understand What am I saying? So, I will have to link you I will have to link you You have to go and tell your neighbor That I will eat it with you I am making lentils You will have a hand shake So, how will that hand shake be? In HTML, you will tell where is your CSS file? So, there is a link tag And the reason for not using notepad You will know here As soon as I write the link Here is the link colon CSS As soon as I select it Look here It has done half of my work It has also written RL is equal to the style sheet I have to type this manually in notepad This is the syntax of HTML I have to write it But automatically It has come Now, style.css is my destiny It is also called style.css It is the file and it is also called style.css If it is called Harry.css Then I would have written Harry.css here And guess what? Now, my background is red Now, if I want the color of my text to be white So, I can write the color text here I can write here Color white Now, nothing will work here I have written color white Look here, this is white The valid CSS syntax will work there And we will talk about it later in this course So, this is our work Which was our CSS Now, how will this JavaScript work? If I write here alert And I write here Welcome to Sigma Web Development Course Suppose I write here Welcome to Sigma Web Development Course So, what will be the alert here? Why did not the alert come? I will tell you that this syntax is absolutely correct There is no problem in the syntax And I will read the JavaScript very well So, don't worry What did I write? This is the code of JavaScript Which is Welcome to Sigma Web Development Course It will do a very simple flash Why didn't you do it? Flash is here Did my computer get spoiled? No, my computer is absolutely right I want to tell you that I will have to include the script And let's include the script from the body Okay Now, here as soon as I will include the script I will write it in SRC Script.js How did I write this? First, I wrote script here Okay First, I wrote script here Amit abbreviation What is amit? Amit is a plugin Which is built-in in VS Code You will automatically complete the selection Now, I am writing script here And I am selecting the column SRC This means that I want to give a source file You can type it manually But the suggestions you are getting here Are the powers to write your code They make you a wonderful developer And they increase your powers So that you can't get into trouble And as soon as possible, your Azure developer can be automatically SRC is equal to Script.js You can see here I have included it Now, I will come here So, you see here Welcome to Sigma Web Development Course Everyone write in the comment I have been automatically Write Because I know that you have been automatically By looking at this box Javascript also went away CSS also went away Javascript also went away Now, you will be automatically I will reload it It will come again Okay, it will be closed So, as soon as I visit this website I will get to see an alert here It is called alert Javascript I will tell you what Javascript is Don't say that you didn't tell me I don't want to start weirdly I will finish the HTML Then, Javascript in CSS So, don't take any tension And along with this The best practices I am telling you as soon as possible You have to keep in mind that What I am telling you It is coming from my experience It is coming from my time experience And definitely will help you Like I said, live server You can use it if you want Nothing wrong in that Use it live preview From Microsoft Okay, awesome Now, I want you all to write Sigma batch OP in the comment Everyone is enjoying the course So, put Sigma batch OP in the comment It will be fun to see Yes, this is a batch It is free course It is a batch So, Sigma course OP Write the hashtag It will be fun Now, there were many people's comments in the last video How to do this mouse wheel So, you have to go to the settings You have to write mouse wheel And here you have to check the editor The mouse wheel zoom Then, you have to press control From the mouse wheel I have pressed control As I will do it I will be able to zoom in And if I right click here To do command palette Then I can toggle the screencast mode Then whatever I write here You will get to see that I did not toggle the screencast mode in this video Because you already know What I am typing Okay So, I can toggle the screencast mode Or not, I can turn on The bottom of the screen I am doing all the things that I am doing In the last video We talked about how websites work And what we did You understood very well Now, I will take the example of iPhone 15 Pro Max And I will show you by ordering How the client-server interaction will be Whenever a user orders an iPhone Okay, so you will find it interesting I will show you here So, guys, how the website works here I have come to explain it on Apple.com Now, Apple.com is a website Okay, from their servers Data will be here Okay, whatever the HTML files are I will click here on pre-order And after that, I will simply When I am recording It is not even here, by the way They are saying that it will be here by September I will select 15 Pro Max Let's take any color Let's take Black Titanium What is going on Let's take 250GB Let's take No Trading No Apple coverage After this, you see here What did they do? Their communication with servers It is going on and on So, after all this The HTML CSS JavaScript You can see here I have sourced the view page So, it is showing me here And this is our original website That is, what we were working on Now, I will quickly check out here I will continue as a guest I will show you something interesting Like I will click on Inspect And I will click on Network Look, 2 and 4 communication is going on With Apple's servers Which means that here As I am doing the action here The JavaScript is communicating the server And there Appropriate Action Server is taking it And sending me data I will come here I would like to be delivered Continue the shipping address I will put the name Will deliver on 19th October Shipping I will tell you the update I will keep you, okay? Yes, everything is fine Terms and conditions I have read it I will agree Place your order I have agreed Place your order Like the video Because I will also order iPhones To explain the web development This is here We have OTP I will confirm OTP And my purchase is done here The goal was to I requested something from Apple.com server I said Give me an iPhone 15 Pro Max Apple.com said Take it So the communication like this Between server and client This is through JavaScript Load the page without Like you saw I selected iPhone here After that I clicked on different things So all those things How do they happen? They are on the side of JavaScript How is the styling? With CSS And what is written is HTML I hope you remember this example And if you get a call I will definitely show you Many people have said This is a debt I will show you this phone When it comes I will do it in front of you So this is how your websites work How to communicate with a client server I hope you understood from this example You can tell me in the comment section If I want to give this iPhone So what will be the best thing That you will also know That I have given a genuine And I will also give You tell me in the comment section I don't know a little about all this So you know about this So tell me Now I want to tell you Where you will get notes and cheatsheets If you go to codevdary.com Slash notes You will get notes to see And you can download notes here With that You will get to see cheatsheets below For example, if I want to access HTML cheatsheets So I can access cheatsheets here Here all the elements But in this course I will tell you about all the elements With that if you want to download my handwritten notes So from here you can download PDF notes I have written handwritten notes You will enjoy reading In this course I will tell you everything But you will enjoy downloading notes Your learning experience I will make you laugh That you will also say It was fun, boss Now I want you all to do one thing Put initial review of this course In this first video I want you all to go to this video And go to this video In the comment section Post the initial review I want you all to write in the comment section Of this first video How did you like the course And give me 5 stars Do star rating this course And tell me about the initial review I know that the course is not that good But what quality And all these things I am commenting on you all In the first video So if you will do this I will feel good from the heart Go to the first video Read this course Now we will talk After doing this course How you can earn money The first way to earn money from web development It is very simple You do freelance Freelance as a web developer You make websites There are many websites Which you can make And after making them You will get a lot of good money Many people integrate APIs And by integrating APIs Many people earn a lot of money Many people say 4GBT has come So 4GBT has come Then nothing will happen Everything is 4GBT But this is not true 4GBT is an easy way for you to make websites According to me And when you use 4GBT You become a giga chat developer So use more than 4GBT And you can save your time In fact, I tell the truth Since 4GBT has come I am able to deliver more To my freelancing clients As many websites I had to make from the beginning I do more than half of the work I do with 4GBT And the work which 4GBT is not able to do I do that Finally I package it And I don't have to answer anyone What I used 4GBT What I did without 4GBT You can deliver everything very easily Use 4GBT You can't do everything with 4GBT You have to use 4GBT And after that You have to deliver the freelance clients From where you will meet freelancing clients You can go to a website like Fiverr Yes, I know that it is difficult to get work on Fiverr But you can go to the buyer request There is a buyer request option in Fiverr Search it Now if you go here You can match it with buyer If I show you images Then here You can get some buyer requests You can give your pitch to them That I have done this And to do this You will get work It will start Like on your gig You will get good reviews You will earn more money Suppose there is a gig of Fiverr No one has ordered it Then you will never get easy work But if you agree on one gig 5-6 people have ordered And everyone gave you 5 stars Then things will be easier for you Because the buyers They want the ones who are working Their credibility should be good So that they also need work And they are also giving money So they also want If they are giving money Then their money is not wasted So here Fiverr Upwork And also a lot of freelancing websites You can try on them But before trying You should make good websites And today in the day Responsive Use cutting edge technologies Suppose you want to integrate 4GPTI You will get this kind of work No one will tell you Make me a design Make it simple Make it new I am saying most of the clients Do not do all this work For today, everyone does 4GPTI You can make complex websites And earn more money Then another thing Get a job as a web developer If you get a job as a web developer Which if you become a good web developer Then you will get a job And this is not the case Jobs will decrease In fact Senior developers' demand is increasing And their back edge is also increasing People are earning more in coding Than they used to earn If you are a very basic developer Then you will get 4GPTI replaced After this You can sell your services By making an Instagram account In an Instagram account If you upload any kind of images And if you take a little traction Where you talk about websites About all these things Then you start approaching clients I approach many clients Because they say I want to make a website I am not saying that you should have a lot of followers You can start with very little following After this You can give people 1 to 1 help You will get this too You will get this from clients' Instagram Or from social media You can say in your real life If you want to learn anything Then you come to my DM I will tell you or I will tell you And you get clients very easily Trust me if you have any help After this You can sell your course Which I think This course was going to sell I have uploaded it in free But this course was going to get paid The truth is this And when you get this course paid Definitely Everyone gave money for this course It is not necessary that you have to make a web development course There are many things inside web development Like how to use 4GPTI Make a course of it Make a course of 4GPTI If you want to make a website It will be easy to sell your course The course economy is very huge Many people have contacted me To buy this course That I will launch this course as a paid course on their platform But I didn't do it Because I wanted to give this course as free I decided I even posted it People have contacted me till the last moment Please don't put it in free But I put it So you will have to write down the sigma batch in the comment section And you will have to like it Now that the course is uploaded in free Many of the course sellers have been harmed Because when iPhone 15, 16, 19 is being released in free Then who will ask Blackberry That too the paid Blackberry And I am saying this because I have put in so much effort And put in so much experience I know that in the coming videos You will also know So stay tuned You will get a lot of things in the coming videos I am aware of the fact that we are taking a very slow start But remember me We will raise the bar like anything So access the playlist Like the video Do the land of your village in my name Thank you so much guys for watching this video And I will see you next time"
+}

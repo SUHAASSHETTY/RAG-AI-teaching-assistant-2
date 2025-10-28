@@ -24,14 +24,14 @@ def create_embedding(text_list):
         print(f"Error creating embeddings: {e}")
         return None
 
-jsons = os.listdir("jsons")  # List all the jsons
+jsons = os.listdir("newjsons")  # List all the jsons
 my_dicts = []
 chunk_id = 0
 
 for json_file in jsons:
     if json_file.endswith('.json'):
         try:
-            with open(f"jsons/{json_file}", encoding='utf-8') as f:
+            with open(f"newjsons/{json_file}", encoding='utf-8') as f:
                 content = json.load(f)
             
             print(f"Creating Embeddings for {json_file}")

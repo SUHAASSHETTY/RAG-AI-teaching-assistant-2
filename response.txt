@@ -1,9 +1,7 @@
-The topic of "tags" is covered in a few videos in our course. Specifically, you can find information about tags in videos "sample3", "sample4", and "sample5". 
+The topic of form and input tags in forms is taught in video 3 of the course. Specifically, you can find this information between the timestamps 443.92 and 452.92. 
 
-In video "sample3", the concept of tags in HTML is introduced at timestamp 207.24-208.6, where it's mentioned that "There are two types of tags in HTML". Additionally, meta tags are discussed at timestamp 338.4-340.4.
+To access this topic, I recommend going to video 3 and forwarding to the 443.92 timestamp. The instructor explains how to copy the source code for forms into the HTML forms page and start creating and modifying your form. 
 
-If you're looking for information about specific types of tags, such as table tags, you can check out video "sample5" at timestamp 369.0-371.0, where it's explained what a table tag is, and at timestamp 424.0-425.0, where it's specified that a table tag is a TR tag. 
+If you're looking for more information on HTML structure, you can also review the section between 403.92 and 414.92 in the same video, where the instructor discusses the basic structure of an HTML website and attributes like "lang" equal to "en". 
 
-Lastly, video "sample4" at timestamp 631.6-633.6 mentions that "P is a tag".
-
-To learn more about tags, I recommend going to these videos and watching the relevant sections. Just navigate to the respective video and skip to the mentioned timestamps.
+For a comprehensive understanding, please navigate to video 3 and follow along with the instructor's explanation.

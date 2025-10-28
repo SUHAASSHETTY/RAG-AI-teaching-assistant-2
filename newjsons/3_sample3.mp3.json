@@ -1,0 +1,439 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 0.0,
+            "end": 17.56,
+            "text": " What's up guys, you are back in the Sigma Web Development course.  I'm really very happy that you guys have given so much love to this course.  Like this course with high energy.  Because for this Sigma free course, Sigma Charts is the best.  In today's video, I will explain you guys how to make a basic website look like."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 17.56,
+            "end": 32.64,
+            "text": " Along with that, I will tell you guys a mobile trick that will help you to know  how you can preview your websites in your phone.  You guys have a request that you guys write to me in the comment section and tell me  if you get HTML or not.  That will help me structure this course better."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 32.64,
+            "end": 45.84,
+            "text": " In this video, I will tell you guys about ChatGbD.  Because there are a lot of things going on about ChatGbD.  In the upcoming videos, I will also give you quizzes.  So, be very careful and learn all the concepts.  Let's go to the computer screen."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 45.84,
+            "end": 68.0,
+            "text": " Let's roll the info.  So guys, I have come to the computer screen.  And now we will talk about how to create a basic website for opening, closing,  and structure.  In this folder, I will create a folder called Video3."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 68.0,
+            "end": 82.12,
+            "text": " I will click on the new folder, Video3 and in the video3, I will shift right click  and open with code.  And here you can see that my theme is blue.  And a lot of people have said that blue is not good.  Look, the theme is your choice."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 82.12,
+            "end": 90.56,
+            "text": " If you want to change the color theme,  then you can change your color theme.  I want to use the GitHub dark one.  I can use GitHub dark.  It's your choice."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 90.56,
+            "end": 109.64,
+            "text": " To create a new file, I will put index.html.  We had already talked about that if I write the title of the page,  and write the content here, and then use the link tag here,  I can use the emit here and link style.css.  I am doing it so fast that I have already talked about it in the previous video."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 109.64,
+            "end": 125.63999999999999,
+            "text": " And if I write script.js here,  and here I write, let us say alert, hello.  So I will not tell you again and again that if I put a script tag here,  just before the body, and after that,  I put script.src here and script.js."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 125.63999999999999,
+            "end": 138.6,
+            "text": " And then click here and open with browser,  then this will come hello and if I red the body background here,  then it will be red.  I will not tell you all this, because I have already told you all this.  I will tell you all this right now."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 138.6,
+            "end": 150.64,
+            "text": " What does this structure mean?  Why did it write so big?  This is a doubt for a beginner that we cannot write the title and content directly.  What is the need to write so much?  So I will tell you how much you need to write."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 150.64,
+            "end": 163.0,
+            "text": " I will reload it.  Look at the content here, it came and it turned red here.  You saw here that I needed to reload the page.  You must have thought why do people need to reload the questions,  when they already reloaded this live."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 163.0,
+            "end": 170.68,
+            "text": " So look, I changed the CSS file.  When I change the CSS file,  at times we need to reload it.  If you are using HTML file,  you are doing changes,"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 170.68,
+            "end": 184.12,
+            "text": " you don't need to reload the changes of HTML file like this.  Now here,  what I will do is I will come back and explain it to you.  This is a basic structure of any HTML website.  First we write the doc type HTML,"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 184.12,
+            "end": 190.84,
+            "text": " then we write HTML tag.  Look, this is the opening tag of HTML tag,  and here is the closing tag.  This is the opening tag of the body,  and here is the closing tag."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 190.84,
+            "end": 199.32,
+            "text": " Here is the opening tag of the head,  and here is the closing tag.  That is, the problem in it is the content of the head.  What is the problem in HTML?  It is the content of HTML."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 199.32,
+            "end": 208.6,
+            "text": " According to that,  whatever is in the title is the content of the title.  Now what is the content of the meta?  So meta is a self-closing tag.  There are two types of tags in HTML,"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 208.6,
+            "end": 219.0,
+            "text": " one is self-closing tag,  and one is pair tag.  What is in pair tag is that your opening tag is a closing tag.  So this is the basic structure of the HTML website.  Now here you have seen that the background is red."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 219.0,
+            "end": 227.84,
+            "text": " Whose background is this?  This is the background of CSS.  If I remove the CSS from here,  and say that I will remove it from here,  what will I say from CSS?"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 227.92000000000002,
+            "end": 235.56,
+            "text": " Remove it from here quickly.  And as soon as I say remove it from here,  it will have to be removed from here.  I will reload the page.  So you can see that it has been removed from here."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 235.56,
+            "end": 242.16,
+            "text": " Similarly, I can say it from JavaScript.  Remove it from there quickly.  You see, I said from here,  then the alert will also be closed.  Okay."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 242.16,
+            "end": 255.6,
+            "text": " So you see, I will reload it now,  then the alert will also be closed.  So I added CSS and JavaScript in the HTML content.  This additionally used the CSS and JavaScript functionalities  to link with this HTML page."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 255.6,
+            "end": 268.2,
+            "text": " Now I already told you about the title tag.  This is used to set the page title.  Now you just have to give the purpose of the title here.  The search engines that are used here,  that is, the search engines are Google."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 268.2,
+            "end": 276.64,
+            "text": " If you write here,  code with Harry HTML,  then code with Harry's HTML introduction,  HTML working,  all the titles I have put on the page."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 276.64,
+            "end": 286.76,
+            "text": " You see, here,  HTML introduction is the title of the page.  So these titles are used by the page  and are passed through the search engines.  Now I will change the page here."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 286.84,
+            "end": 296.8,
+            "text": " So here, HTML working is its title.  Now I will change the page again.  You see, here, HTML installation is its title.  So the titles keep changing.  Along with that, as I will keep changing,"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 296.8,
+            "end": 305.88,
+            "text": " this will keep changing,  as you can see.  Okay.  So the title of the HTML pages  doesn't just mean that you can see it here."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 305.88,
+            "end": 316.64,
+            "text": " It is also very useful in SEO.  And they tell you what is the content in the page.  So they describe the content of the page.  As I am getting to know here, what is the HTML execution?  The HTML execution means that"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 316.64,
+            "end": 325.55999999999995,
+            "text": " how the HTML is executed.  I am being told about this page.  So changing the title of the page is a very good SEO practice.  So we will make a website from any framework.  We will keep changing the title of the page."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 325.55999999999995,
+            "end": 336.67999999999995,
+            "text": " Now here, the head section,  the metadata of the page is inside the head section.  Like the title is there.  And you can link it with any script.  Along with that, there are other meta tags"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 336.67999999999995,
+            "end": 345.44,
+            "text": " which I will tell you about later.  Meta tags basically means  how the HTML document is.  It is told about it.  Keywords are added, descriptions are added."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 345.44,
+            "end": 358.24,
+            "text": " Meta description is a very important keyword for SEO.  That is, what page you can write about here.  If you go to my website,  you will find the view of page source here.  That it is a meta description tag."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 358.24,
+            "end": 365.6,
+            "text": " It is a compressed HTML.  So don't get confused with it.  But here you can see that it is a meta description tag  which describes this page.  If we talk about Google,"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 365.6,
+            "end": 375.92,
+            "text": " then meta description shows Google here.  I want to show you that  Doc type, HTML,  what happens in the head section after this,  meta tags, title tags, script tags,"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 375.92,
+            "end": 384.92,
+            "text": " link tags are also there.  So the script tags that you can add to the body  can be added in the front and in the top.  And what are the differences?  We will talk about this in the course."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 384.92,
+            "end": 394.92,
+            "text": " But here you can see that I used the link  and added CSS again.  Then the body is the main content of the website  which shows you on this page.  So the one who shows you on this page"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 394.92,
+            "end": 403.92,
+            "text": " will be the body.  Whatever you put in the body,  it will show you here.  And whatever you put in the script, it will be executed.  Now what will happen by adding a script here"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 403.92,
+            "end": 414.92,
+            "text": " and adding a script in the head?  I will tell you in the course in the future.  But this is a basic structure of the HTML website.  Lang is equal to en is an attribute.  It is an attribute with any tag."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 414.92,
+            "end": 423.92,
+            "text": " Lang is equal to en.  So the value of which is en.  So these are the key values that are used  to tell about this tag.  Like the name is equal to description in the meta tag."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 423.92,
+            "end": 433.92,
+            "text": " So the name is equal to description is an attribute.  And you will hover in the VS code.  You will tell a lot about this.  If I hovered on the name, it will tell you  about this attribute."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 433.92,
+            "end": 443.92,
+            "text": " Why this attribute?  How it is used?  Now most of the content that is in the body  mostly you will copy the HTML raw.  Mostly from the code with the re.com website."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 443.92,
+            "end": 452.92,
+            "text": " You will copy the source code here.  If I talk about forms,  then you will copy it in the HTML forms page.  And you will start making your form  and modify it."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 452.92,
+            "end": 461.92,
+            "text": " So copy and paste is very important.  As a senior developer, you should know  where to copy and paste and when to do it.  And I am not saying this for the sake of the  state."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 461.92,
+            "end": 469.92,
+            "text": " I am not saying this for the sake of the state.  This thing will always be the same.  You can type it or copy and paste it.  Obviously you will prefer to copy and paste it.  Because this change is not going to happen."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 469.92,
+            "end": 477.92,
+            "text": " The form will remain the same.  And if you copy and paste it,  then your time will be saved.  Then innovation you have to put your mind there  which can't be copied and pasted."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 477.92,
+            "end": 486.92,
+            "text": " So you should understand this as a sigma rule  that you will copy and paste that thing  which has to be copied and pasted.  And where you have to put your mind,  it can't be copied and pasted."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 486.92,
+            "end": 500.92,
+            "text": " So you will save your time and put your mind there.  The most important part of being a senior  software developer is to where to copy and paste from.  Which stack overflow question to copy and paste from.  And how to paste it from where copyright"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 500.92,
+            "end": 510.92,
+            "text": " code with daddy, 2024, 2526, whatever you understand.  This is my copyright statement.  I have said it but this statement is very  very bad.  Now I will tell you about a technique"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 510.92,
+            "end": 520.92,
+            "text": " which you can see in this mobile  that you will develop this website.  Now listen to them carefully.  Right click, open terminal.  And write IPConfig."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 520.92,
+            "end": 528.92,
+            "text": " If you are in the old version,  then you can open command prompt or power shell.  When you enter IPConfig,  you will see IPv4 address here.  You will get to see it."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 528.92,
+            "end": 538.92,
+            "text": " 192168199.  Now I will copy this IP address  which we have found here.  So I will copy this IPv4 address  and write it in my settings."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 538.92,
+            "end": 549.92,
+            "text": " Live preview.  The local IP host address to host your files on  is written here.  I will write my IP address on this place.  And after doing this, I will restart my VS Code."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 549.92,
+            "end": 558.92,
+            "text": " You will have to ensure one more thing  that you go to your Wi-Fi settings  and do your network private network.  Public network should not be there.  Private network should be there."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 558.92,
+            "end": 567.92,
+            "text": " Network and internet Wi-Fi.  You can connect it to any Wi-Fi you have connected.  And now you will do the show preview  by right clicking.  So here you will see your IP address."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 567.92,
+            "end": 578.92,
+            "text": " You will get to see it.  slash index.html.  I can use this on my phone too.  So I will put this IP address here quickly.  So I have put 192.168.1.199.5000."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 578.92,
+            "end": 587.92,
+            "text": " You can also get 3000.  Put whatever is your port.  And here you see.  My website is previewed in mobile.  This trick is very useful"
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 587.92,
+            "end": 597.92,
+            "text": " when we want to preview in our mobile.  Because nowadays most of the websites are  seen on phones.  So we want our phone users  to enjoy our website."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 597.92,
+            "end": 608.92,
+            "text": " And we are developing in computer.  So that testing will be done.  If you haven't put a review in the first video  I will request you to come to the first video  and review your course."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 608.92,
+            "end": 614.92,
+            "text": " In the last video I told you to review it.  You will put an initial review.  You will see so much code.  How did you feel?  You write there initial review."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 614.92,
+            "end": 623.92,
+            "text": " As soon as you write initial review  people will know what is the initial review of this course.  You give me 5 stars.  Along with that,  you must access the playlist and description."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 623.92,
+            "end": 631.92,
+            "text": " You must click here to bookmark it.  You will click on the star.  You will get this bookmark.  And it will start showing in your bookmarks.  I have bookmarked it here."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 631.92,
+            "end": 641.92,
+            "text": " You can save it here.  Many people have accessed the playlist.  So I want everyone to access this playlist.  Bookmark and save this playlist.  So access the playlist."
+        },
+        {
+            "number": "3",
+            "title": "sample3",
+            "start": 641.92,
+            "end": 661.92,
+            "text": " Like the video.  Do the same for your village and uncle.  Thank you so much for watching this video.  And I will see you next time.  Thank you."
+        }
+    ],
+    "text": " What's up guys, you are back in the Sigma Web Development course. I'm really very happy that you guys have given so much love to this course. Like this course with high energy. Because for this Sigma free course, Sigma Charts is the best. In today's video, I will explain you guys how to make a basic website look like. Along with that, I will tell you guys a mobile trick that will help you to know how you can preview your websites in your phone. You guys have a request that you guys write to me in the comment section and tell me if you get HTML or not. That will help me structure this course better. In this video, I will tell you guys about ChatGbD. Because there are a lot of things going on about ChatGbD. In the upcoming videos, I will also give you quizzes. So, be very careful and learn all the concepts. Let's go to the computer screen. Let's roll the info. So guys, I have come to the computer screen. And now we will talk about how to create a basic website for opening, closing, and structure. In this folder, I will create a folder called Video3. I will click on the new folder, Video3 and in the video3, I will shift right click and open with code. And here you can see that my theme is blue. And a lot of people have said that blue is not good. Look, the theme is your choice. If you want to change the color theme, then you can change your color theme. I want to use the GitHub dark one. I can use GitHub dark. It's your choice. To create a new file, I will put index.html. We had already talked about that if I write the title of the page, and write the content here, and then use the link tag here, I can use the emit here and link style.css. I am doing it so fast that I have already talked about it in the previous video. And if I write script.js here, and here I write, let us say alert, hello. So I will not tell you again and again that if I put a script tag here, just before the body, and after that, I put script.src here and script.js. And then click here and open with browser, then this will come hello and if I red the body background here, then it will be red. I will not tell you all this, because I have already told you all this. I will tell you all this right now. What does this structure mean? Why did it write so big? This is a doubt for a beginner that we cannot write the title and content directly. What is the need to write so much? So I will tell you how much you need to write. I will reload it. Look at the content here, it came and it turned red here. You saw here that I needed to reload the page. You must have thought why do people need to reload the questions, when they already reloaded this live. So look, I changed the CSS file. When I change the CSS file, at times we need to reload it. If you are using HTML file, you are doing changes, you don't need to reload the changes of HTML file like this. Now here, what I will do is I will come back and explain it to you. This is a basic structure of any HTML website. First we write the doc type HTML, then we write HTML tag. Look, this is the opening tag of HTML tag, and here is the closing tag. This is the opening tag of the body, and here is the closing tag. Here is the opening tag of the head, and here is the closing tag. That is, the problem in it is the content of the head. What is the problem in HTML? It is the content of HTML. According to that, whatever is in the title is the content of the title. Now what is the content of the meta? So meta is a self-closing tag. There are two types of tags in HTML, one is self-closing tag, and one is pair tag. What is in pair tag is that your opening tag is a closing tag. So this is the basic structure of the HTML website. Now here you have seen that the background is red. Whose background is this? This is the background of CSS. If I remove the CSS from here, and say that I will remove it from here, what will I say from CSS? Remove it from here quickly. And as soon as I say remove it from here, it will have to be removed from here. I will reload the page. So you can see that it has been removed from here. Similarly, I can say it from JavaScript. Remove it from there quickly. You see, I said from here, then the alert will also be closed. Okay. So you see, I will reload it now, then the alert will also be closed. So I added CSS and JavaScript in the HTML content. This additionally used the CSS and JavaScript functionalities to link with this HTML page. Now I already told you about the title tag. This is used to set the page title. Now you just have to give the purpose of the title here. The search engines that are used here, that is, the search engines are Google. If you write here, code with Harry HTML, then code with Harry's HTML introduction, HTML working, all the titles I have put on the page. You see, here, HTML introduction is the title of the page. So these titles are used by the page and are passed through the search engines. Now I will change the page here. So here, HTML working is its title. Now I will change the page again. You see, here, HTML installation is its title. So the titles keep changing. Along with that, as I will keep changing, this will keep changing, as you can see. Okay. So the title of the HTML pages doesn't just mean that you can see it here. It is also very useful in SEO. And they tell you what is the content in the page. So they describe the content of the page. As I am getting to know here, what is the HTML execution? The HTML execution means that how the HTML is executed. I am being told about this page. So changing the title of the page is a very good SEO practice. So we will make a website from any framework. We will keep changing the title of the page. Now here, the head section, the metadata of the page is inside the head section. Like the title is there. And you can link it with any script. Along with that, there are other meta tags which I will tell you about later. Meta tags basically means how the HTML document is. It is told about it. Keywords are added, descriptions are added. Meta description is a very important keyword for SEO. That is, what page you can write about here. If you go to my website, you will find the view of page source here. That it is a meta description tag. It is a compressed HTML. So don't get confused with it. But here you can see that it is a meta description tag which describes this page. If we talk about Google, then meta description shows Google here. I want to show you that Doc type, HTML, what happens in the head section after this, meta tags, title tags, script tags, link tags are also there. So the script tags that you can add to the body can be added in the front and in the top. And what are the differences? We will talk about this in the course. But here you can see that I used the link and added CSS again. Then the body is the main content of the website which shows you on this page. So the one who shows you on this page will be the body. Whatever you put in the body, it will show you here. And whatever you put in the script, it will be executed. Now what will happen by adding a script here and adding a script in the head? I will tell you in the course in the future. But this is a basic structure of the HTML website. Lang is equal to en is an attribute. It is an attribute with any tag. Lang is equal to en. So the value of which is en. So these are the key values that are used to tell about this tag. Like the name is equal to description in the meta tag. So the name is equal to description is an attribute. And you will hover in the VS code. You will tell a lot about this. If I hovered on the name, it will tell you about this attribute. Why this attribute? How it is used? Now most of the content that is in the body mostly you will copy the HTML raw. Mostly from the code with the re.com website. You will copy the source code here. If I talk about forms, then you will copy it in the HTML forms page. And you will start making your form and modify it. So copy and paste is very important. As a senior developer, you should know where to copy and paste and when to do it. And I am not saying this for the sake of the state. I am not saying this for the sake of the state. This thing will always be the same. You can type it or copy and paste it. Obviously you will prefer to copy and paste it. Because this change is not going to happen. The form will remain the same. And if you copy and paste it, then your time will be saved. Then innovation you have to put your mind there which can't be copied and pasted. So you should understand this as a sigma rule that you will copy and paste that thing which has to be copied and pasted. And where you have to put your mind, it can't be copied and pasted. So you will save your time and put your mind there. The most important part of being a senior software developer is to where to copy and paste from. Which stack overflow question to copy and paste from. And how to paste it from where copyright code with daddy, 2024, 2526, whatever you understand. This is my copyright statement. I have said it but this statement is very very bad. Now I will tell you about a technique which you can see in this mobile that you will develop this website. Now listen to them carefully. Right click, open terminal. And write IPConfig. If you are in the old version, then you can open command prompt or power shell. When you enter IPConfig, you will see IPv4 address here. You will get to see it. 192168199. Now I will copy this IP address which we have found here. So I will copy this IPv4 address and write it in my settings. Live preview. The local IP host address to host your files on is written here. I will write my IP address on this place. And after doing this, I will restart my VS Code. You will have to ensure one more thing that you go to your Wi-Fi settings and do your network private network. Public network should not be there. Private network should be there. Network and internet Wi-Fi. You can connect it to any Wi-Fi you have connected. And now you will do the show preview by right clicking. So here you will see your IP address. You will get to see it. slash index.html. I can use this on my phone too. So I will put this IP address here quickly. So I have put 192.168.1.199.5000. You can also get 3000. Put whatever is your port. And here you see. My website is previewed in mobile. This trick is very useful when we want to preview in our mobile. Because nowadays most of the websites are seen on phones. So we want our phone users to enjoy our website. And we are developing in computer. So that testing will be done. If you haven't put a review in the first video I will request you to come to the first video and review your course. In the last video I told you to review it. You will put an initial review. You will see so much code. How did you feel? You write there initial review. As soon as you write initial review people will know what is the initial review of this course. You give me 5 stars. Along with that, you must access the playlist and description. You must click here to bookmark it. You will click on the star. You will get this bookmark. And it will start showing in your bookmarks. I have bookmarked it here. You can save it here. Many people have accessed the playlist. So I want everyone to access this playlist. Bookmark and save this playlist. So access the playlist. Like the video. Do the same for your village and uncle. Thank you so much for watching this video. And I will see you next time. Thank you."
+}

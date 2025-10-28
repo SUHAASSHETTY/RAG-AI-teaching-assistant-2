@@ -1,67 +1,64 @@
-# This script processes incoming user queries by generating embeddings, finding similar text chunks from a precomputed dataset, and generating a response using a local language model service.
+# This script reads JSON files containing text chunks, generates embeddings for each chunk using a local embedding service, and saves the results in a DataFrame.
 
-# Process incoming user queries and generate responses
+# Preprocess JSON files to create embeddings and save them in a DataFrame
 
-import pandas as pd 
-from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np 
-import joblib 
 import requests
-
+import os
+import json
+import numpy as np
+import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+import joblib
 
 def create_embedding(text_list):
-    # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
-    r = requests.post("http://localhost:11434/api/embed", json={
-        "model": "bge-m3",
-        "input": text_list
-    })
+    try:
+        # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
+        r = requests.post("http://localhost:11434/api/embed", json={
+            "model": "bge-m3",
+            "input": text_list
+        })
+        r.raise_for_status()
+        embedding = r.json()["embeddings"]
+        return embedding
+    except Exception as e:
+        print(f"Error creating embeddings: {e}")
+        return None
 
-    embedding = r.json()["embeddings"] 
-    return embedding
+jsons = os.listdir("newjsons")  # List all the jsons
+my_dicts = []
+chunk_id = 0
 
-def inference(prompt):
-    r = requests.post("http://localhost:11434/api/generate", json={
-        # "model": "deepseek-r1",
-        "model": "llama3.2",
-        "prompt": prompt,
-        "stream": False
-    })
+for json_file in jsons:
+    if json_file.endswith('.json'):
+        try:
+            with open(f"newjsons/{json_file}", encoding='utf-8') as f:
+                content = json.load(f)
+            
+            print(f"Creating Embeddings for {json_file}")
+            
+            chunk_texts = [c['text'] for c in content['chunks']]
+            if not chunk_texts:
+                continue
+                
+            embeddings = create_embedding(chunk_texts)
+            if embeddings is None:
+                continue
+                   
+            for i, chunk in enumerate(content['chunks']):
+                chunk['chunk_id'] = chunk_id
+                chunk['embedding'] = embeddings[i]
+                chunk_id += 1
+                my_dicts.append(chunk)
+        except Exception as e:
+            print(f"Error processing {json_file}: {e}")
+            continue
 
-    response = r.json()
-    print(response)
-    return response
-
-df = joblib.load('embeddings.joblib')
-
-
-incoming_query = input("Ask a Question: ")
-question_embedding = create_embedding([incoming_query])[0] 
-
-# Find similarities of question_embedding with other embeddings
-# print(np.vstack(df['embedding'].values))
-# print(np.vstack(df['embedding']).shape)
-similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding]).flatten()
-# print(similarities)
-top_results = 5
-max_indx = similarities.argsort()[::-1][0:top_results]
-# print(max_indx)
-new_df = df.loc[max_indx] 
-# print(new_df[["title", "number", "text"]])
-
-prompt = f'''I am teaching python fundamentals in my data science course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
-
-{new_df[["title", "number", "start", "end", "text"]].to_json(orient="records")}
----------------------------------
-"{incoming_query}"
-User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
-'''
-with open("prompt.txt", "w") as f:
-    f.write(prompt)
-
-response = inference(prompt)["response"]
-print(response)
-
-with open("response.txt", "w") as f:
-    f.write(response)
-# for index, item in new_df.iterrows():
-#     print(index, item["title"], item["number"], item["text"], item["start"], item["end"])
+if my_dicts:
+    df = pd.DataFrame.from_records(my_dicts)
+    print(f"Created DataFrame with {len(df)} chunks")
+    
+    # Save this dataframe
+    joblib.dump(df, 'embeddings.joblib')
+    print("Saved embeddings to embeddings.joblib")
+else:
+    print("No data to save")

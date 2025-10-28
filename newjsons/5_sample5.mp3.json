@@ -1,0 +1,768 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 0.0,
+            "end": 21.0,
+            "text": " In this video, we will see how images are made, lists are made in the HTML and tables are made.  So, if you like the video, I know very few people like videos on YouTube.  But if you do, thanks to you, I get the motivation to bring free courses like this.  So, let's start the 5th video of Sigma Web Development course on the computer screen.  Let's roll the intro."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 30.0,
+            "end": 47.0,
+            "text": " So, guys, I have come to the computer screen.  First, I want to tell you to bookmark GetUp.com.  In fact, bookmark this repository so that you get the whole code.  Second thing, click on the playlist and bookmark it.  Click on the star and save it here."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 47.0,
+            "end": 63.0,
+            "text": " Now, the first thing I will tell you is about the image.  What is the image in HTML?  We will make a folder here.  In the name of Video 5, click on the new folder and here Video 5.  You know, I have already told you about the code."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 63.0,
+            "end": 77.0,
+            "text": " If you want to see this welcome page again and again,  then click on the show welcome page and check the start-up.  You won't get this again and again.  But what are we doing?  We will make index.html, control it, zoom in by mouse wheel,"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 77.0,
+            "end": 93.0,
+            "text": " toggle the screencast mode so that you will know which button I am pressing and why I am pressing.  Now, I will take the image abbreviation with the exclamation mark.  And here, I will do the view word wrap.  You have to work very hard.  You can see that your word wrap is closed."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 93.0,
+            "end": 105.0,
+            "text": " So, what will happen here is that the horizontal scroll bar will not come.  Now, what will I do here?  I will write images here.  And I will simply bring an image here.  Now, you can bring images from the internet."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 105.0,
+            "end": 113.0,
+            "text": " I will write here.  Let us say we want to bring images.  Let us say train key.  Okay, train key images.  Because we have run a lot of trains in this course."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 113.0,
+            "end": 121.0,
+            "text": " So, we will bring train key images.  Why will we bring any other image?  I will do the same images.  And here, in the video number 5 folder of Sigma Web Development course,  this is a CMS file."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 121.0,
+            "end": 127.0,
+            "text": " In fact, I will do one thing.  So, I will cancel it.  I will take its snippet.  Because this is a CMS extension.  I will go to PNG and take it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 127.0,
+            "end": 141.0,
+            "text": " So, I have pressed Windows, Shift and S.  It is a shortcut for Snipping tool.  If you don't know, then now you will know through Sigma Web Development course.  If you press Windows, Shift and S, then your Snipping tool opens in Windows.  No one knows anything."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 141.0,
+            "end": 148.0,
+            "text": " Tell me in the comment section.  Okay.  Now, what will we do?  I had done Windows, Shift and S.  Then, I got into talks."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 148.0,
+            "end": 158.0,
+            "text": " So, here you click and save it.  Here, save the floppy description.  You click here.  And go to downloads.  Go to Sigma Web Development course."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 158.0,
+            "end": 170.0,
+            "text": " Save it in video 5.  Okay, saved it in image.  Now, there is an IMG tag in HTML.  The way you will put it, SRC and Alt are required attributes.  In fact, if you don't write Alt, then it will work."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 170.0,
+            "end": 177.0,
+            "text": " But it is recommended.  I will tell you what these attributes are.  First, if you write in SRC,  image.png.  You can see this image is here."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 177.0,
+            "end": 184.0,
+            "text": " And I will put it in Alt.  Train image.  Now, if I show it to you,  by previewing it in the browser.  See, it looks like this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 184.0,
+            "end": 193.0,
+            "text": " This is our page and this is the image of the train.  What happened by doing this?  Alt, what we wrote, where did it go?  You can say, I will tell you where it went.  I put it in Alt."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 193.0,
+            "end": 200.0,
+            "text": " See, what we put in Alt,  we didn't see that yet.  Suppose, for some reason,  the server can't see you.  Then what will happen?"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 200.0,
+            "end": 208.0,
+            "text": " Suppose, I wrote image2 by mistake.  Now, image2.png is not here.  So, what will be the error?  I will show you.  So, here, Alt will be displayed."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 208.0,
+            "end": 219.0,
+            "text": " And this kind of error image will be displayed.  Which will tell you that,  you put the image correctly.  You have done something wrong.  Here, the server's URL is not there."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 219.0,
+            "end": 230.0,
+            "text": " These kind of things are shown.  And there, Alt is displayed.  So, the user knows what is the purpose of this image.  And if I come back here,  you can put Alt in the image like this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 230.0,
+            "end": 238.0,
+            "text": " What will happen if I don't put Alt?  If I don't put Alt,  then the text that was Alt will not come.  Nothing will happen.  So, you won't want that when your server has an error,"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 238.0,
+            "end": 244.0,
+            "text": " then you will see the image like this.  This is the scenario.  The user will see you like this.  This is the train image.  See this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 244.0,
+            "end": 251.0,
+            "text": " I hope you understood.  So, the image is straightforward.  There are two more attributes of this image.  Which are very important.  One is the width."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 251.0,
+            "end": 258.0,
+            "text": " Which is width in pixels.  If I do 23, width is equal to...  You can see.  In fact, I will correct the image first.  I wrote image 2 by mistake."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 258.0,
+            "end": 264.0,
+            "text": " Image.png.  You can see here.  I took 23 pixels.  Which is very small.  So, I will do 230 pixels."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 264.0,
+            "end": 274.0,
+            "text": " You don't need to write Px in this.  When we write width in CSS,  we will see that we need to write Px.  Or, we write number in width is equal to double quotes.  As you can see."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 274.0,
+            "end": 284.0,
+            "text": " So, if I bring this here,  you can see that this is a small image.  If I give it height.  I mean, I give it height.  I said, if I keep the height of 230,"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 284.0,
+            "end": 290.0,
+            "text": " then its aspect ratio will be reduced.  So, it will be a little stretched.  Because it has also made its width 230.  It also makes the height 230.  As you can see."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 290.0,
+            "end": 298.0,
+            "text": " If you want height 230.  And width automatically adjust.  Then you can use height attribute.  Now, remove the width.  So, the height of 230 will be fixed."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 298.0,
+            "end": 307.0,
+            "text": " And the width will be adjusted automatically.  Now, see.  Width has been adjusted automatically.  And height has been taken.  Now, what happens is that"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 307.0,
+            "end": 318.0,
+            "text": " Width and height can be adjusted through CSS.  And we will see in the section of CSS.  Why should we always set this width and height.  We should always set one thing from width and height.  Such that, when our page load is happening."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 318.0,
+            "end": 328.0,
+            "text": " Then our image inside the page  will not come to the page.  I will tell you in the coming videos.  But, you can understand this now.  The attributes of Width and height."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 328.0,
+            "end": 335.0,
+            "text": " Many people, I have told that  they have heard that they have been deprecated.  They should not use it.  But I say, they should use it for this purpose.  Why should they do it?"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 335.0,
+            "end": 344.0,
+            "text": " I will tell you in the coming videos.  Where I will tell you about the core web vitals and SEO.  For now, you can understand that Width  gives the image, height gives the image.  If someone has set one of them."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 344.0,
+            "end": 353.0,
+            "text": " Then the second one automatically sets.  And these values are in pixels.  And you don't have to write px or pixel.  You just have to write this number.  And that's it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 353.0,
+            "end": 361.0,
+            "text": " This is an attribute, height.  And it is an SRC attribute.  An alt attribute.  In this, you can use style attribute.  In fact, you can use style attribute"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 361.0,
+            "end": 371.0,
+            "text": " with almost all the tags.  So this was the image.  Now we will talk about the tables in HTML.  In HTML, table tag is very useful.  I will tell you what is table tag."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 371.0,
+            "end": 382.0,
+            "text": " You get to see table from table tag.  Now I will copy this table from here.  And when I will copy this table from here,  then you will see that my page will look like this.  So this table of HTML."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 382.0,
+            "end": 393.0,
+            "text": " Where is my preview page?  Here it is.  Look at the name, HarryHundred.  Now if I add many more things here.  Suppose I add some names here."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 393.0,
+            "end": 403.0,
+            "text": " And here I add, let's say,  designation, Harry designation.  Let's add programmer.  And let's add more things here.  I will use Alt Shift bottom arrow."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 403.0,
+            "end": 416.0,
+            "text": " I will use Alt Shift bottom arrow.  And here I want to write  favorite language.  And I want to write JavaScript here.  And now you see that this table will look like this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 416.0,
+            "end": 424.0,
+            "text": " Name, destination, favorite language.  So what is this?  How does it work?  Let me tell you.  Here you see table tag is used."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 424.0,
+            "end": 432.0,
+            "text": " Table tag is TR tag.  Which is table row.  What will come in this row?  You will get to see this.  Now if you want to use this as table heading."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 432.0,
+            "end": 440.0,
+            "text": " You say that this is my table row.  That is, this is row.  This row.  Name, destination and your favorite language is written.  What will come in this row?"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 440.0,
+            "end": 447.0,
+            "text": " And what will come?  What will happen?  Here you can see that it will be a heading.  So I will use TH.  TH means table heading."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 447.0,
+            "end": 455.0,
+            "text": " And we will write that only once.  So the first one that will be TR, we will write TH.  Now we have put the heading.  Then we will put the data.  So we will put TD in table row."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 455.0,
+            "end": 464.0,
+            "text": " Which stands from table data.  And here you will put rows like this in all the TRs.  What will happen?  Your rows will be added.  So here I will write SAM."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 464.0,
+            "end": 474.0,
+            "text": " And this is also a programmer.  And believe me, this is Java's favorite language.  So these rows will be added below the table.  You can see here that these rows are being added.  They are being added."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 474.0,
+            "end": 484.0,
+            "text": " We will see from CSS how it is border.  It can be styled.  But it is shown as default.  And yes, I know this is the next one.  But you just need to understand that the table works like this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 484.0,
+            "end": 500.0,
+            "text": " Now there are rows, spans and call span attributes.  Now you will see here that the number of rows you will span is TD.  For example, let us say I want to write SAM and programmer.  Earlier we were taking one cell.  SAM was taking one cell and programmer was taking one cell."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 500.0,
+            "end": 516.0,
+            "text": " I want to write SAM in two cells.  So I want to write SAM in two columns.  And I want to write that call span is equal to 2.  So call span is equal to 2 means that SAM will take place of two columns.  What does it mean?"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 516.0,
+            "end": 527.0,
+            "text": " It means that SAM will take place of two columns.  It means that SAM will look like this.  I will show you.  So this is the place of the whole column.  So the call span means that how many columns will be rounded."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 527.0,
+            "end": 539.0,
+            "text": " By default, one column will be rounded.  But sometimes one cell will be rounded.  To demonstrate this, I will explain it to you from Excel.  In Excel, you can understand that this table is for MRE HTML.  Sometimes I want to span two columns, one data."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 539.0,
+            "end": 551.0,
+            "text": " So here we use the merge cell.  And here I write SAM.  In HTML, this is done by using call span.  Sometimes we want to merge vertically.  I mean, I want to merge these two cells."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 551.0,
+            "end": 563.0,
+            "text": " We use the row span there.  And who will we use the row span with?  We will use the row span with TD.  So we are using call span with TD.  We are using the row span."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 563.0,
+            "end": 574.0,
+            "text": " So we will use the row span.  So I hope you understood this.  And when we will make tables and projects with HTML,  then you will understand it better.  But I will show you the row span here quickly."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 574.0,
+            "end": 587.0,
+            "text": " So if I write row span is equal to 2.  And after that I will write another TR here.  So you will see that this table is showing this way.  Now to explain it better, I will put a CSS style here.  What I will do here is I will add a style sheet."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 587.0,
+            "end": 597.0,
+            "text": " And I will put the name of the style sheet.  Style.css.  So in style.css, and you don't need to understand CSS.  I will tell you already.  I will write in TD,"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 597.0,
+            "end": 608.0,
+            "text": " Border 2px solid black.  And I will tell you how it works.  But for now you will understand that I have put this.  To explain you.  So I said that this row is in this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 608.0,
+            "end": 619.0,
+            "text": " Harry, programmer and JavaScript.  Then I said that the row span of SAM is how much?  I gave the row span to the place.  I said that  My Java is the row span 2."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 619.0,
+            "end": 630.0,
+            "text": " So how many rows will take Java?  Obviously 2 will take.  So here Java will take 2 rows.  So here you can see Java took 2 rows.  So when Java took 2 rows, it means I don't want to write Java in the next row."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 630.0,
+            "end": 640.0,
+            "text": " Because its row is already down.  So I won't write Java in the next row.  So here I won't write Java.  I have written its row span 2.  So what happened with this?"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 640.0,
+            "end": 652.0,
+            "text": " You can see that this was Harry, programmer and JavaScript.  So I said that the call span of SAM is 2.  That means it will take 2 columns.  This SAM will take 2 columns.  And Java will take 2 rows."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 652.0,
+            "end": 664.0,
+            "text": " So you can see that it is exactly the same here.  It took 2 rows and 2 columns.  So this way a row span and call span can be used in HTML.  In HTML table, we can add captions.  And to add captions, we can use this caption tag."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 664.0,
+            "end": 676.0,
+            "text": " So I will show you that in the table,  if we use caption, student details.  Or I will say employee details.  So your page will look like this.  You can see here that the employee details will be added here."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 676.0,
+            "end": 687.0,
+            "text": " Now CSS has also changed its font size.  But for now, it looks like this.  The caption is added.  Employee details will look like this.  Along with that, you can also add header and footer."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 687.0,
+            "end": 703.0,
+            "text": " You can add t-head and t-foot here.  Like if I add some content in t-head and t-foot.  If I add header and footer here.  Then you will get to see t-head and t-foot.  You can see here that the header and footer are added."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 703.0,
+            "end": 714.0,
+            "text": " Now I will tell you about another tag.  It is called br tag which adds line break.  So after the image, you can see that everything is down here.  So this is the header.  And after that, I will add footer down."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 714.0,
+            "end": 724.0,
+            "text": " I will not add here.  So I will add all the tables at the end.  So this is my table footer.  Now I can change it from CSS.  Now here I can group my header and footer content"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 724.0,
+            "end": 735.0,
+            "text": " from t-foot.  So what will be my table header?  I can group this here.  I can put it in t-head.  Along with that, the content in the table"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 735.0,
+            "end": 744.0,
+            "text": " will come in t-body.  So what will come in t-body?  My table and content will come in this way.  Like you can see.  And after this, if I write t-foot here."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 744.0,
+            "end": 754.0,
+            "text": " And I want to add some data at the end.  So I will add another tr.  As you can see, I will do it rightfully.  And I will document it.  So that it will be a better format."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 754.0,
+            "end": 762.0,
+            "text": " Suppose I want to add this kind of tr.  And I want to group it in t-foot.  So this is the way to group.  I have not added it in t-foot.  I have added some t-arts."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 762.0,
+            "end": 770.0,
+            "text": " I have added my main body in t-body.  And I have added it in t-head.  Which is my table header.  And obviously nothing will change.  I have only grouped it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 770.0,
+            "end": 777.0,
+            "text": " Here you see that our...  I will do the work.  I will write footer here.  So that you will know that this is footer.  I will write foot here."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 777.0,
+            "end": 786.0,
+            "text": " You can see here that the last row is foot.  What is the benefit of doing this?  You can do grouping.  So that we can target from CSS.  So you will use this very less."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 786.0,
+            "end": 794.0,
+            "text": " But you can do grouping like this.  Your whole table will come here.  Head content will come here.  Foot content will come here.  And body content comes in between."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 794.0,
+            "end": 807.0,
+            "text": " But you can write it here.  But ideally head, body and then foot comes.  I hope you understood.  So that's all about HTML tables.  You don't need to know more than this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 807.0,
+            "end": 819.0,
+            "text": " And now we will talk about the list.  List is very important in HTML.  Because we will use the list a lot.  There are three types of lists in HTML.  We have an ordered list, an unordered list and a definition list."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 819.0,
+            "end": 831.0,
+            "text": " The most used unordered and ordered list.  Let's see the unordered list first.  Sometimes we want to have unordered data.  Like I write here UL.  So I will write UL here."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 831.0,
+            "end": 839.0,
+            "text": " That means unordered list.  I can write Ally in this.  And I can write Harry.  And then I can write Rohan.  And then I can write Shubham."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 839.0,
+            "end": 850.0,
+            "text": " So when I write Harry Rohan Shubham,  UL will come in this.  This is an unordered list.  Look, Harry Rohan Shubham came here.  They don't have any order."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 850.0,
+            "end": 859.0,
+            "text": " They didn't have 1, 2, 3, 4.  But if I want it to be ordered,  I can write this with the help of OL.  So if I make its opening, closing tag OL.  And keep the rest same."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 859.0,
+            "end": 869.0,
+            "text": " Then it will be ordered list.  So here it will be 1, 2, 3.  You can do this 1, 2, 3 with ABC.  You can do capital ABC.  You can do Roman numbers."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 869.0,
+            "end": 875.0,
+            "text": " You can do it with the help of CSS.  You can do it in other ways.  You can see here.  In this image,  that UL is in Ally."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 875.0,
+            "end": 881.0,
+            "text": " So it came in this way.  In this image, you can see.  It is in OL.  So it is 1, 2, 3.  This is an example of an ordered list."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 881.0,
+            "end": 891.0,
+            "text": " And this is an example of a definition list.  Definition list comes in very few uses.  It is a little preview.  You first put the heading here.  Then I have written DL."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 891.0,
+            "end": 899.0,
+            "text": " DL means definition list.  After this, DT.  After this, DD.  So here the definition term is.  And then the definition of its definition is."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 899.0,
+            "end": 906.0,
+            "text": " So this comes in this way.  And you can change it with CSS.  It is very few uses.  But you should know about it.  Interview for it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 906.0,
+            "end": 914.0,
+            "text": " And asking what is the definition list.  So some of these codes are previewed like this.  I am not writing it right now.  For the sake of time.  But try it out."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 914.0,
+            "end": 924.0,
+            "text": " And here, first of all, we will see the unordered list.  In unordered list, I have told you.  It is very simple and straightforward.  You can customize its bullet points.  By using type attribute."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 924.0,
+            "end": 935.0,
+            "text": " For example, if I say type is equal to square.  I say type is equal to.  And I write it as square.  So I have written type is equal to.  Square in UL."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 935.0,
+            "end": 944.0,
+            "text": " So it has appeared like square.  Similarly, I can circle the type in UL.  I can square it.  I can disc it.  Disc by default."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 944.0,
+            "end": 955.0,
+            "text": " The bullet that is seen is by default.  I can square it.  I can also circle it.  Along with that.  You can add any other list items in it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 955.0,
+            "end": 963.0,
+            "text": " Now let's see the unordered list.  In the unordered list, you will write li.  So it will be like this.  1, 2, 3.  But you can use it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 963.0,
+            "end": 970.0,
+            "text": " Type is equal to i.  When you use type is equal to i.  You will get uppercase roman numbers.  Type is equal to small i.  So you will get lowercase roman numbers."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 970.0,
+            "end": 979.0,
+            "text": " Type is equal to 1.  It is default.  You don't need to do this.  If you take small, you will get alphabetical.  And if you take capital, you will get uppercase alphabetical."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 979.0,
+            "end": 992.0,
+            "text": " So let's see this.  So I will take capital.  You see VS Code is giving us examples and suggestions.  And it is easy for us to see the possible values.  So VS Code is very useful."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 992.0,
+            "end": 1000.0,
+            "text": " And many people are using old editors.  Which were used before.  If you know their correct plugins,  You have set it up a lot.  Then we will do it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1000.0,
+            "end": 1007.0,
+            "text": " VS Code is modern.  Switch it to VS Code.  All of you use VS Code.  You will see the developed Zeclop.  If you want to do it in mobile,"
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1007.0,
+            "end": 1015.0,
+            "text": " I recommend you to do it in replete.  You will get an app called replete.com.  And I would like to give a shoutout to replete.com.  Because I use it a lot.  I think it is very useful."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1015.0,
+            "end": 1024.0,
+            "text": " So you can use replete.com in your mobile.  If your computer is not as powerful as your computer,  You can use it.  You will get templates in it.  We will cover it in the upcoming videos."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1024.0,
+            "end": 1033.0,
+            "text": " But I will stick it on VS Code.  I hope you understood here.  Ordered list, unordered list, definition list.  Now see we have completed 5 videos.  In the Zeclop web development series."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1033.0,
+            "end": 1043.0,
+            "text": " I want you to go to the first video and  Comment on how you feel about the codes.  I have started from 5 stars.  What is the nature review of these codes.  You have seen 5 videos according to that."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1043.0,
+            "end": 1052.0,
+            "text": " I know that your order will be delayed for a minute.  But the people who are doing this for the delivery of the Zomato delivery.  They don't comment on YouTube as much as they do now.  But I still want you to comment.  You guys do it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1052.0,
+            "end": 1060.0,
+            "text": " Comment on how I am doing.  Go to the first video.  And keep writing sigma-batch op in the comment.  You get a lot of motivation.  Our two-way interaction will remain like this."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1060.0,
+            "end": 1067.0,
+            "text": " If you keep commenting on me, I will keep watching.  I like it a lot.  I feel a two-way interaction.  I will give the source code in the description.  You can access it."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1067.0,
+            "end": 1076.0,
+            "text": " You can access the playlist.  Like the video.  Write down on the sigma-batch op in the comment.  And name the land of your village.  Thank you so much for watching this video."
+        },
+        {
+            "number": "5",
+            "title": "sample5",
+            "start": 1076.0,
+            "end": 1096.0,
+            "text": " And I will see you next time.  Thank you."
+        }
+    ],
+    "text": " In this video, we will see how images are made, lists are made in the HTML and tables are made. So, if you like the video, I know very few people like videos on YouTube. But if you do, thanks to you, I get the motivation to bring free courses like this. So, let's start the 5th video of Sigma Web Development course on the computer screen. Let's roll the intro. So, guys, I have come to the computer screen. First, I want to tell you to bookmark GetUp.com. In fact, bookmark this repository so that you get the whole code. Second thing, click on the playlist and bookmark it. Click on the star and save it here. Now, the first thing I will tell you is about the image. What is the image in HTML? We will make a folder here. In the name of Video 5, click on the new folder and here Video 5. You know, I have already told you about the code. If you want to see this welcome page again and again, then click on the show welcome page and check the start-up. You won't get this again and again. But what are we doing? We will make index.html, control it, zoom in by mouse wheel, toggle the screencast mode so that you will know which button I am pressing and why I am pressing. Now, I will take the image abbreviation with the exclamation mark. And here, I will do the view word wrap. You have to work very hard. You can see that your word wrap is closed. So, what will happen here is that the horizontal scroll bar will not come. Now, what will I do here? I will write images here. And I will simply bring an image here. Now, you can bring images from the internet. I will write here. Let us say we want to bring images. Let us say train key. Okay, train key images. Because we have run a lot of trains in this course. So, we will bring train key images. Why will we bring any other image? I will do the same images. And here, in the video number 5 folder of Sigma Web Development course, this is a CMS file. In fact, I will do one thing. So, I will cancel it. I will take its snippet. Because this is a CMS extension. I will go to PNG and take it. So, I have pressed Windows, Shift and S. It is a shortcut for Snipping tool. If you don't know, then now you will know through Sigma Web Development course. If you press Windows, Shift and S, then your Snipping tool opens in Windows. No one knows anything. Tell me in the comment section. Okay. Now, what will we do? I had done Windows, Shift and S. Then, I got into talks. So, here you click and save it. Here, save the floppy description. You click here. And go to downloads. Go to Sigma Web Development course. Save it in video 5. Okay, saved it in image. Now, there is an IMG tag in HTML. The way you will put it, SRC and Alt are required attributes. In fact, if you don't write Alt, then it will work. But it is recommended. I will tell you what these attributes are. First, if you write in SRC, image.png. You can see this image is here. And I will put it in Alt. Train image. Now, if I show it to you, by previewing it in the browser. See, it looks like this. This is our page and this is the image of the train. What happened by doing this? Alt, what we wrote, where did it go? You can say, I will tell you where it went. I put it in Alt. See, what we put in Alt, we didn't see that yet. Suppose, for some reason, the server can't see you. Then what will happen? Suppose, I wrote image2 by mistake. Now, image2.png is not here. So, what will be the error? I will show you. So, here, Alt will be displayed. And this kind of error image will be displayed. Which will tell you that, you put the image correctly. You have done something wrong. Here, the server's URL is not there. These kind of things are shown. And there, Alt is displayed. So, the user knows what is the purpose of this image. And if I come back here, you can put Alt in the image like this. What will happen if I don't put Alt? If I don't put Alt, then the text that was Alt will not come. Nothing will happen. So, you won't want that when your server has an error, then you will see the image like this. This is the scenario. The user will see you like this. This is the train image. See this. I hope you understood. So, the image is straightforward. There are two more attributes of this image. Which are very important. One is the width. Which is width in pixels. If I do 23, width is equal to... You can see. In fact, I will correct the image first. I wrote image 2 by mistake. Image.png. You can see here. I took 23 pixels. Which is very small. So, I will do 230 pixels. You don't need to write Px in this. When we write width in CSS, we will see that we need to write Px. Or, we write number in width is equal to double quotes. As you can see. So, if I bring this here, you can see that this is a small image. If I give it height. I mean, I give it height. I said, if I keep the height of 230, then its aspect ratio will be reduced. So, it will be a little stretched. Because it has also made its width 230. It also makes the height 230. As you can see. If you want height 230. And width automatically adjust. Then you can use height attribute. Now, remove the width. So, the height of 230 will be fixed. And the width will be adjusted automatically. Now, see. Width has been adjusted automatically. And height has been taken. Now, what happens is that Width and height can be adjusted through CSS. And we will see in the section of CSS. Why should we always set this width and height. We should always set one thing from width and height. Such that, when our page load is happening. Then our image inside the page will not come to the page. I will tell you in the coming videos. But, you can understand this now. The attributes of Width and height. Many people, I have told that they have heard that they have been deprecated. They should not use it. But I say, they should use it for this purpose. Why should they do it? I will tell you in the coming videos. Where I will tell you about the core web vitals and SEO. For now, you can understand that Width gives the image, height gives the image. If someone has set one of them. Then the second one automatically sets. And these values are in pixels. And you don't have to write px or pixel. You just have to write this number. And that's it. This is an attribute, height. And it is an SRC attribute. An alt attribute. In this, you can use style attribute. In fact, you can use style attribute with almost all the tags. So this was the image. Now we will talk about the tables in HTML. In HTML, table tag is very useful. I will tell you what is table tag. You get to see table from table tag. Now I will copy this table from here. And when I will copy this table from here, then you will see that my page will look like this. So this table of HTML. Where is my preview page? Here it is. Look at the name, HarryHundred. Now if I add many more things here. Suppose I add some names here. And here I add, let's say, designation, Harry designation. Let's add programmer. And let's add more things here. I will use Alt Shift bottom arrow. I will use Alt Shift bottom arrow. And here I want to write favorite language. And I want to write JavaScript here. And now you see that this table will look like this. Name, destination, favorite language. So what is this? How does it work? Let me tell you. Here you see table tag is used. Table tag is TR tag. Which is table row. What will come in this row? You will get to see this. Now if you want to use this as table heading. You say that this is my table row. That is, this is row. This row. Name, destination and your favorite language is written. What will come in this row? And what will come? What will happen? Here you can see that it will be a heading. So I will use TH. TH means table heading. And we will write that only once. So the first one that will be TR, we will write TH. Now we have put the heading. Then we will put the data. So we will put TD in table row. Which stands from table data. And here you will put rows like this in all the TRs. What will happen? Your rows will be added. So here I will write SAM. And this is also a programmer. And believe me, this is Java's favorite language. So these rows will be added below the table. You can see here that these rows are being added. They are being added. We will see from CSS how it is border. It can be styled. But it is shown as default. And yes, I know this is the next one. But you just need to understand that the table works like this. Now there are rows, spans and call span attributes. Now you will see here that the number of rows you will span is TD. For example, let us say I want to write SAM and programmer. Earlier we were taking one cell. SAM was taking one cell and programmer was taking one cell. I want to write SAM in two cells. So I want to write SAM in two columns. And I want to write that call span is equal to 2. So call span is equal to 2 means that SAM will take place of two columns. What does it mean? It means that SAM will take place of two columns. It means that SAM will look like this. I will show you. So this is the place of the whole column. So the call span means that how many columns will be rounded. By default, one column will be rounded. But sometimes one cell will be rounded. To demonstrate this, I will explain it to you from Excel. In Excel, you can understand that this table is for MRE HTML. Sometimes I want to span two columns, one data. So here we use the merge cell. And here I write SAM. In HTML, this is done by using call span. Sometimes we want to merge vertically. I mean, I want to merge these two cells. We use the row span there. And who will we use the row span with? We will use the row span with TD. So we are using call span with TD. We are using the row span. So we will use the row span. So I hope you understood this. And when we will make tables and projects with HTML, then you will understand it better. But I will show you the row span here quickly. So if I write row span is equal to 2. And after that I will write another TR here. So you will see that this table is showing this way. Now to explain it better, I will put a CSS style here. What I will do here is I will add a style sheet. And I will put the name of the style sheet. Style.css. So in style.css, and you don't need to understand CSS. I will tell you already. I will write in TD, Border 2px solid black. And I will tell you how it works. But for now you will understand that I have put this. To explain you. So I said that this row is in this. Harry, programmer and JavaScript. Then I said that the row span of SAM is how much? I gave the row span to the place. I said that My Java is the row span 2. So how many rows will take Java? Obviously 2 will take. So here Java will take 2 rows. So here you can see Java took 2 rows. So when Java took 2 rows, it means I don't want to write Java in the next row. Because its row is already down. So I won't write Java in the next row. So here I won't write Java. I have written its row span 2. So what happened with this? You can see that this was Harry, programmer and JavaScript. So I said that the call span of SAM is 2. That means it will take 2 columns. This SAM will take 2 columns. And Java will take 2 rows. So you can see that it is exactly the same here. It took 2 rows and 2 columns. So this way a row span and call span can be used in HTML. In HTML table, we can add captions. And to add captions, we can use this caption tag. So I will show you that in the table, if we use caption, student details. Or I will say employee details. So your page will look like this. You can see here that the employee details will be added here. Now CSS has also changed its font size. But for now, it looks like this. The caption is added. Employee details will look like this. Along with that, you can also add header and footer. You can add t-head and t-foot here. Like if I add some content in t-head and t-foot. If I add header and footer here. Then you will get to see t-head and t-foot. You can see here that the header and footer are added. Now I will tell you about another tag. It is called br tag which adds line break. So after the image, you can see that everything is down here. So this is the header. And after that, I will add footer down. I will not add here. So I will add all the tables at the end. So this is my table footer. Now I can change it from CSS. Now here I can group my header and footer content from t-foot. So what will be my table header? I can group this here. I can put it in t-head. Along with that, the content in the table will come in t-body. So what will come in t-body? My table and content will come in this way. Like you can see. And after this, if I write t-foot here. And I want to add some data at the end. So I will add another tr. As you can see, I will do it rightfully. And I will document it. So that it will be a better format. Suppose I want to add this kind of tr. And I want to group it in t-foot. So this is the way to group. I have not added it in t-foot. I have added some t-arts. I have added my main body in t-body. And I have added it in t-head. Which is my table header. And obviously nothing will change. I have only grouped it. Here you see that our... I will do the work. I will write footer here. So that you will know that this is footer. I will write foot here. You can see here that the last row is foot. What is the benefit of doing this? You can do grouping. So that we can target from CSS. So you will use this very less. But you can do grouping like this. Your whole table will come here. Head content will come here. Foot content will come here. And body content comes in between. But you can write it here. But ideally head, body and then foot comes. I hope you understood. So that's all about HTML tables. You don't need to know more than this. And now we will talk about the list. List is very important in HTML. Because we will use the list a lot. There are three types of lists in HTML. We have an ordered list, an unordered list and a definition list. The most used unordered and ordered list. Let's see the unordered list first. Sometimes we want to have unordered data. Like I write here UL. So I will write UL here. That means unordered list. I can write Ally in this. And I can write Harry. And then I can write Rohan. And then I can write Shubham. So when I write Harry Rohan Shubham, UL will come in this. This is an unordered list. Look, Harry Rohan Shubham came here. They don't have any order. They didn't have 1, 2, 3, 4. But if I want it to be ordered, I can write this with the help of OL. So if I make its opening, closing tag OL. And keep the rest same. Then it will be ordered list. So here it will be 1, 2, 3. You can do this 1, 2, 3 with ABC. You can do capital ABC. You can do Roman numbers. You can do it with the help of CSS. You can do it in other ways. You can see here. In this image, that UL is in Ally. So it came in this way. In this image, you can see. It is in OL. So it is 1, 2, 3. This is an example of an ordered list. And this is an example of a definition list. Definition list comes in very few uses. It is a little preview. You first put the heading here. Then I have written DL. DL means definition list. After this, DT. After this, DD. So here the definition term is. And then the definition of its definition is. So this comes in this way. And you can change it with CSS. It is very few uses. But you should know about it. Interview for it. And asking what is the definition list. So some of these codes are previewed like this. I am not writing it right now. For the sake of time. But try it out. And here, first of all, we will see the unordered list. In unordered list, I have told you. It is very simple and straightforward. You can customize its bullet points. By using type attribute. For example, if I say type is equal to square. I say type is equal to. And I write it as square. So I have written type is equal to. Square in UL. So it has appeared like square. Similarly, I can circle the type in UL. I can square it. I can disc it. Disc by default. The bullet that is seen is by default. I can square it. I can also circle it. Along with that. You can add any other list items in it. Now let's see the unordered list. In the unordered list, you will write li. So it will be like this. 1, 2, 3. But you can use it. Type is equal to i. When you use type is equal to i. You will get uppercase roman numbers. Type is equal to small i. So you will get lowercase roman numbers. Type is equal to 1. It is default. You don't need to do this. If you take small, you will get alphabetical. And if you take capital, you will get uppercase alphabetical. So let's see this. So I will take capital. You see VS Code is giving us examples and suggestions. And it is easy for us to see the possible values. So VS Code is very useful. And many people are using old editors. Which were used before. If you know their correct plugins, You have set it up a lot. Then we will do it. VS Code is modern. Switch it to VS Code. All of you use VS Code. You will see the developed Zeclop. If you want to do it in mobile, I recommend you to do it in replete. You will get an app called replete.com. And I would like to give a shoutout to replete.com. Because I use it a lot. I think it is very useful. So you can use replete.com in your mobile. If your computer is not as powerful as your computer, You can use it. You will get templates in it. We will cover it in the upcoming videos. But I will stick it on VS Code. I hope you understood here. Ordered list, unordered list, definition list. Now see we have completed 5 videos. In the Zeclop web development series. I want you to go to the first video and Comment on how you feel about the codes. I have started from 5 stars. What is the nature review of these codes. You have seen 5 videos according to that. I know that your order will be delayed for a minute. But the people who are doing this for the delivery of the Zomato delivery. They don't comment on YouTube as much as they do now. But I still want you to comment. You guys do it. Comment on how I am doing. Go to the first video. And keep writing sigma-batch op in the comment. You get a lot of motivation. Our two-way interaction will remain like this. If you keep commenting on me, I will keep watching. I like it a lot. I feel a two-way interaction. I will give the source code in the description. You can access it. You can access the playlist. Like the video. Write down on the sigma-batch op in the comment. And name the land of your village. Thank you so much for watching this video. And I will see you next time. Thank you."
+}
